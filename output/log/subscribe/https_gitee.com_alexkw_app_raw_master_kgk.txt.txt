@@ -760,13 +760,14 @@ TVB Plus,http://r.jdshipin.com/ndGgS
 TVB星河,http://r.jdshipin.com/sXuuD
 TVB星河,http://r.jdshipin.com/Voac4
 华丽翡翠台,http://r.jdshipin.com/thuYX
+TVB翡翠HD,http://120.238.5.44:1698/hls/83/index.m3u8
 TVB武侠,https://cdn6.163189.xyz/163189/yzwx
 翡翠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct/
 TVBPlus(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
 华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
 华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
+TVB星河(多音轨字幕),http://120.238.5.44:1698/hls/88/index.m3u8
 TVB经典HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGVVpMwZ6hyPzB3VxOQQURmyS-lMNJUPk_jp3YW0uV_qvG2B3gl3Q3mLtwKTrl-Z3GtIIAk9uHtTWaDp_7Zl4XQXLYnigqJXA1E7o0wTcL88uso9AjrIt_Yo47o80Ipb3rAGUHRqDL79I8VSCTayOQhUrPfHoFIZAzaH9NebrducA28BBbiS4Gqt-mfwbfpImFOXchNOWgFwhJ0qWNasSAg.m3u8?u=1756878715
 TVB经典HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGVVpMwZ6hyPzB3VxOQQURmyS-lMNJUPk_jp3YW0uV_qvG2B3gl3Q3mLtwKTrl-Z3GtIIAk9uHtTWaDp_7Zl4XQXLYnigqJXA1E7o0wTcL88uso9AjrIt_Yo47o80Ipb3rAGUHRqDL79I8VSCTayOQhUrPfHoFIZAzaH9NebrducA28BBbiS4Gqt-mfwbfpImFOXchNOWgFwhJ0qWNasSAg.m3u8?u=1756878715
 TVB经典HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGVVpMwZ6hyPzB3VxOQQURmyS-lMNJUPk_jp3YW0uV_qvG2B3gl3Q3mLtwKTrl-Z3GtIIAk9uHtTWaDp_7Zl4XQXLYnigqJXA1E7o0wTcL88uso9AjrIt_Yo47o80Ipb3rAGUHRqDL79I8VSCTayOQhUrPfHoFIZAzaH9NebrducA28BBbiS4Gqt-mfwbfpImFOXchNOWgFwhJ0qWNasSAg.m3u8?u=1756878715
@@ -799,6 +800,8 @@ TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
 TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
 TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
 TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
+广东戏曲频道,http://120.238.5.44:1698/hls/91/index.m3u8.
+岭南戏曲,http://gs.jianghua.fun:7088/udp/239.77.0.122:5146
 
 推流,#genre# 9821
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp 
