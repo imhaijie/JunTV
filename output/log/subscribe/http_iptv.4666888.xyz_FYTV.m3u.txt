@@ -89,7 +89,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=42
 http://iptv.4666888.xyz/iptv2A.php?id=56
 #EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" tvg-logo="" group-title="風雲試看臺灣頻道",東森電影
 http://iptv.4666888.xyz/iptv2A.php?id=48
-#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="" group-title="風雲試看臺灣頻道",緯來電影
+#EXTINF:-1 tvg-id="FGM_gold电影" tvg-name="FGM_gold电影" tvg-logo="" group-title="風雲試看臺灣頻道",FGM_gold电影
 http://iptv.4666888.xyz/iptv2A.php?id=54
 #EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="" group-title="風雲試看臺灣頻道",龍華電影
 http://iptv.4666888.xyz/iptv2A.php?id=45
@@ -115,7 +115,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=53
 http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1 tvg-id="臺視綜合" tvg-name="臺視綜合" tvg-logo="" group-title="風雲試看臺灣頻道",臺視綜合
 http://iptv.4666888.xyz/iptv2A.php?id=51
-#EXTINF:-1 tvg-id="東森綜合2" tvg-name="東森綜合2" tvg-logo="" group-title="風雲試看臺灣頻道",東森綜合2
+#EXTINF:-1 tvg-id="TVBS台剧" tvg-name="TVBS台剧" tvg-logo="" group-title="風雲試看臺灣頻道",TVBS台剧
 http://iptv.4666888.xyz/iptv2A.php?id=58
 #EXTINF:-1 tvg-id="八度空間" tvg-name="八度空間" tvg-logo="" group-title="風雲試看臺灣頻道",八度空間
 http://iptv.4666888.xyz/iptv2A.php?id=52

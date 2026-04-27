@@ -1,3 +1,4 @@
+
 常用频道,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
@@ -47,6 +48,9 @@ HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
 美亞電影台(HK),https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
 TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
 TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
+韓流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?exp=3eb9e07cf754f4f55e2947d6282ab13b&id=63
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?exp=3eb9e07cf754f4f55e2947d6282ab13b&id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?exp=3eb9e07cf754f4f55e2947d6282ab13b&id=1
 体育频道,#genre#
 CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
