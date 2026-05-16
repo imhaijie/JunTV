@@ -5,6 +5,18 @@
 # Filling in the channel name will directly retain the record to the final result of the channel, such as: CCTV-1, interface address;
 # If the channel name is not filled in, the address will be added to the results of all channels, with multiple records entered on new lines.
 
+
+广州综合,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
+广州综合,http://183.10.180.19:212/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
+广州综合,http://183.10.180.243:202/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
+广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
+广州综合,http://r.jdshipin.com/iR6Gq
+广州综合,http://113.119.24.121:58888/udp/239.253.43.71:5146
+广州综合,http://113.119.27.137:58888/udp/239.253.43.71:5146
+广州综合,http://183.236.43.98:4013/udp/239.253.43.71:5146
 广州综合,http://115.29.208.41:34567/gd.php?id=1175
 广州新闻,http://115.29.208.41:34567/gd.php?id=1176
 广州综合,http://115.29.208.41:34567/gd.php?id=gzzh
