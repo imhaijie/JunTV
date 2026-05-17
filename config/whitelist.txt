@@ -58,6 +58,11 @@ GRTN健康频道,http://115.29.208.41:34567/gd.php?id=99
 GRTN文化频道,http://115.29.208.41:34567/gd.php?id=75
 GRTN生活频道,http://115.29.208.41:34567/gd.php?id=102
 
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="MYTV",tvN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
+https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 
 深圳卫视,http://115.29.208.41:34567/gd.php?id=sz1
 深圳卫视,http://115.29.208.41:34567/gd.php?id=1206
