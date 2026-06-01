@@ -1,10 +1,13 @@
-2026/05/23 11:42更新,#genre#
+2026/05/31 12:16更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
+TVB翡翠,http://r.jdshipin.com/62WM7
 TVB翡翠,http://r.jdshipin.com/qClQf
 TVB翡翠,http://r.jdshipin.com/qrfbg
 TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,http://r.jdshipin.com/sXuuD
 TVBPlus,http://r.jdshipin.com/Nr5jq
+TVBPlus,http://r.jdshipin.com/ndGgS
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰中文,http://r.jdshipin.com/cCCzW
 华丽翡翠台,http://r.jdshipin.com/thuYX
@@ -45,12 +48,16 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
 港澳E组,#genre#
+TVBS新闻,https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master.m3u8
+寰宇新闻台,https://iptv.852851.xyz/ch/44f49d44835ef34acc0e2aacdbec1513/master.m3u8
+民视,https://iptv.852851.xyz/ch/3e6556a198b28fd892094854a25d53aa/master.m3u8
+纬来日本台,https://iptv.852851.xyz/ch/d49ea24ab0fa52b6c57e9bd22fdae832/master.m3u8
+
+港澳F组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
-华视新闻台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
-民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立新闻台,https://www.youtube.com/watch?v=FoBfXvlOR6I
@@ -59,7 +66,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
-港澳F组,#genre#
+港澳G组,#genre#
 爱情片-戏剧性的一夜,https://hd.ijycnd.com/play/6dBBrrWd/index.m3u8
 动画片-蝙蝠侠：红影迷踪,https://hd.ijycnd.com/play/zbqxpl0a/index.m3u8
 动作片-中天,https://hd.ijycnd.com/play/Le3KwAe6/index.m3u8
@@ -75,7 +82,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 喜剧片-无线电时代,https://hd.ijycnd.com/play/Le3Qy7xb/index.m3u8
 喜剧片-戏剧训练营,https://hd.ijycnd.com/play/6dBj2mkd/index.m3u8
 
-港澳G组,#genre#
+港澳H组,#genre#
 八大精彩4Gtv,http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
 八大综艺4Gtv,http://220.135.64.124:5050/4gtv-4gtv039/index.m3u8?proxy=true
@@ -92,14 +99,12 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森购五4Gtv,http://220.135.64.124:5050/4gtv-live049/index.m3u8?proxy=true
 东森购壹4Gtv,http://220.135.64.124:5050/4gtv-4gtv102/index.m3u8?proxy=true
 东森购壹4Gtv,http://220.135.64.124:5050/4gtv-live047/index.m3u8?proxy=true
-东森购壹4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv102/index.m3u8?proxy=true
 东森新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
 东森新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv152/index.m3u8?proxy=true
 公视戏剧4Gtv,http://220.135.64.124:5050/4gtv-4gtv042/index.m3u8?proxy=true
 公视戏剧4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv042/index.m3u8?proxy=true
 华视闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
 华视闽南4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
-华视闽南4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 华视新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
 寰宇财经4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv158/index.m3u8?proxy=true
@@ -145,6 +150,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民视旅游4Gtv,http://220.135.64.124:5050/litv-ftv07/index.m3u8?proxy=true
 民视闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
 民视闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv155/index.m3u8?proxy=true
+民视闽南4Gtv,http://220.135.64.124:5050/4gtv-live050/index.m3u8?proxy=true
 民视台湾4Gtv,http://220.135.64.124:5050/4gtv-4gtv001/index.m3u8?proxy=true
 民视台湾4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv001/index.m3u8?proxy=true
 民视新闻4Gtv,http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
@@ -154,6 +160,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民视综艺4Gtv,http://220.135.64.124:5050/4gtv-4gtv004/index.m3u8?proxy=true
 民视综艺4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv004/index.m3u8?proxy=true
 人间卫视4Gtv,http://220.135.64.124:5050/4gtv-live008/index.m3u8?proxy=true
+三立新闻4Gtv,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 三立综合4Gtv,http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 数位电影4Gtv,http://220.135.64.124:5050/4gtv-4gtv011/index.m3u8?proxy=true
 台视财经4Gtv,http://220.135.64.124:5050/4gtv-4gtv056/index.m3u8?proxy=true
@@ -174,38 +181,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 猪哥亮厅4Gtv,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
-港澳H组,#genre#
-八大精彩台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv034&token=https://t.me/GPT_858
-八大综艺台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv039&token=https://t.me/GPT_858
-采昌影剧台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv049&token=https://t.me/GPT_858
-东森财经新闻台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv153&token=https://t.me/GPT_858
-东森新闻台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv152&token=https://t.me/GPT_858
-公视戏剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv042&token=https://t.me/GPT_858
-华视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv041&token=https://t.me/GPT_858
-华视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv052&token=https://t.me/GPT_858
-寰宇新闻台,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
-靖天电影台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv061&token=https://t.me/GPT_858
-靖天卡通台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv044&token=https://t.me/GPT_858
-靖天日本台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv047&token=https://t.me/GPT_858
-靖天台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv063&token=https://t.me/GPT_858
-靖天戏剧台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858
-靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
-靖天育乐台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv062&token=https://t.me/GPT_858
-靖天资讯台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
-靖洋卡通,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv057&token=https://t.me/GPT_858
-靖洋戏剧台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv045&token=https://t.me/GPT_858
-民视第一台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv003&token=https://t.me/GPT_858
-民视旅游台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv07&token=https://t.me/GPT_858
-民视台湾台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv001&token=https://t.me/GPT_858
-民视新闻台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv13&token=https://t.me/GPT_858
-民视影剧台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv09&token=https://t.me/GPT_858
-民视综艺台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv004&token=https://t.me/GPT_858
-影迷数位电影台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv011&token=https://t.me/GPT_858
-中视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv040&token=https://t.me/GPT_858
-中视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
-中天新闻台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
-猪哥亮歌厅秀,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv006&token=https://t.me/GPT_858
-
 港澳I组,#genre#
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
@@ -224,12 +199,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 
 港澳J组,#genre#
-寰宇新闻台湾台,https://iptv.852851.xyz/ch/c923b10e6ed936189a40933fbd841da9/master.m3u8
-龙华卡通台,https://iptv.852851.xyz/ch/fd24ac9670b0d1bd570e35b909305fd4/master.m3u8
-三立新闻iNEWS,https://iptv.852851.xyz/ch/6c0dfd2d665343f014b36b6888c1ff14/master.m3u8
-中天新闻台,https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
-
-港澳K组,#genre#
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
