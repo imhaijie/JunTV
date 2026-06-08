@@ -1,77 +1,77 @@
 央视频道,#genre#
 
-CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV1综合,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV1综合,http://47.94.35.147:26228/608807420
+CCTV1综合,http://17752995.xyz:51111/608807420
 CCTV1综合,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv1&zy.m3u8
 CCTV1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 
-CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
-CCTV2财经,http://107.150.60.122/live/cctv2hd.m3u8
+CCTV2财经,http://47.94.35.147:26228/631780532
+CCTV2财经,http://17752995.xyz:51111/631780532
 CCTV2财经,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv2&zy.m3u8
 CCTV2财经,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 
-CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV3综艺,http://107.150.60.122/live/cctv3hd.m3u8
+CCTV3综艺,http://47.94.35.147:26228/624878271
+CCTV3综艺,http://17752995.xyz:51111/624878271
 CCTV3综艺,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv3&zy.m3u8
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 
-CCTV4中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV4中文国际,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV4中文国际,http://47.94.35.147:26228/631780421
+CCTV4中文国际,http://17752995.xyz:51111/631780421
 CCTV4中文国际,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv4&zy.m3u8
 CCTV4中文国际,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 
-CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV5体育,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV5体育,http://47.94.35.147:26228/641886683
+CCTV5体育,http://17752995.xyz:51111/641886683
 CCTV5体育,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5&zy.m3u8
 CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
-CCTV6电影,http://74.91.26.218:82/live/cctv6hd.m3u8
-CCTV6电影,http://107.150.60.122/live/cctv6hd.m3u8
+CCTV6电影,http://47.94.35.147:26228/624878396
+CCTV6电影,http://17752995.xyz:51111/624878396
 CCTV6电影,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv6
 CCTV6电影,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 
-CCTV7军农,http://74.91.26.218:82/live/cctv7hd.m3u8
-CCTV7军农,http://107.150.60.122/live/cctv7hd.m3u8
+CCTV7军农,http://47.94.35.147:26228/673168121
+CCTV7军农,http://17752995.xyz:51111/673168121
 CCTV7军农,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv7&zy.m3u8
 CCTV7军农,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 
-CCTV8电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV8电视剧,http://107.150.60.122/live/cctv8hd.m3u8
+CCTV8电视剧,http://47.94.35.147:26228/624878356
+CCTV8电视剧,http://17752995.xyz:51111/624878356
 CCTV8电视剧,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv8&zy.m3u8
 CCTV8电视剧,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 
-CCTV9纪录,http://74.91.26.218:82/live/cctv9hd.m3u8
-CCTV9纪录,http://107.150.60.122/live/cctv9hd.m3u8
+CCTV9纪录,http://47.94.35.147:26228/673168140
+CCTV9纪录,http://17752995.xyz:51111/673168140
 CCTV9纪录,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv9&zy.m3u8
 CCTV9纪录,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 
-CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
-CCTV10科教,http://107.150.60.122/live/cctv10hd.m3u8
+CCTV10科教,http://47.94.35.147:26228/624878405
+CCTV10科教,http://17752995.xyz:51111/624878405
 CCTV10科教,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv10&zy.m3u8
 CCTV10科教,http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 
-CCTV11戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV11戏曲,http://107.150.60.122/live/cctv11hd.m3u8
+CCTV11戏曲,http://47.94.35.147:26228/667987558
+CCTV11戏曲,http://17752995.xyz:51111/667987558
 CCTV11戏曲,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv11&zy.m3u8
 CCTV11戏曲,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
 
-CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
+CCTV12,http://47.94.35.147:26228/673168185
+CCTV12,http://17752995.xyz:51111/673168185
 CCTV12,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv12&zy.m3u8
 CCTV12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 
-CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
-CCTV13新闻,http://107.150.60.122/live/cctv13hd.m3u8
+CCTV13新闻,http://47.94.35.147:26228/608807423
+CCTV13新闻,http://17752995.xyz:51111/608807423
 CCTV13新闻,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv13&zy.m3u8
 CCTV13新闻,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 
-CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV14少儿,http://107.150.60.122/live/cctv14hd.m3u8
+CCTV14少儿,http://47.94.35.147:26228/624878440
+CCTV14少儿,http://17752995.xyz:51111/624878440
 CCTV14少儿,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv14
 CCTV14少儿,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 
-CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
-CCTV15音乐,http://107.150.60.122/live/cctv15hd.m3u8
+CCTV15音乐,http://47.94.35.147:26228/673168223
+CCTV15音乐,http://17752995.xyz:51111/673168223
 CCTV15音乐,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv15&zy.m3u8
 CCTV15音乐,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 
@@ -80,14 +80,14 @@ CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv16&zy.m3u8
 
-CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
-CCTV17,http://107.150.60.122/live/cctv17hd.m3u8
+CCTV17,http://47.94.35.147:26228/673168256
+CCTV17,http://17752995.xyz:51111/673168256
 CCTV17,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv17&zy.m3u8
 CCTV17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
-CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV5+,http://47.94.35.147:26228/641886773
 CCTV5+,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5p&zy.m3u8
-CCTV5+,http://go.bkpcp.top/mg/cctv5p?$go
+CCTV5+,http://17752995.xyz:51111/641886773
 CCTV5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5+hd.m3u8?auth=testpub
 
 CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
