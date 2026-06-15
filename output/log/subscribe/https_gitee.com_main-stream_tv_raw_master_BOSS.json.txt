@@ -23,7 +23,7 @@ CCTV4中文国际,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 CCTV5体育,http://47.94.35.147:26228/641886683
 CCTV5体育,http://17752995.xyz:51111/641886683
 CCTV5体育,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5&zy.m3u8
-CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV5体育,http://218.13.148.152:5140/IPTV-央视/CCTV-5
 
 CCTV6电影,http://47.94.35.147:26228/624878396
 CCTV6电影,http://17752995.xyz:51111/624878396
@@ -330,11 +330,11 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1_md.m3u8
 
 汕头1,http://ymz.stkeyu.top:8303/rtp/239.253.43.45:5146
-汕头1,http://14.216.158.211:8188/rtp/239.253.43.45:5146
+汕头1,http://119.136.88.81:5140/IPTV-广东地方台/汕头综合高清
 汕头1,https://gd.luzong.cc.cd/stzh
 
 汕头2,http://ymz.stkeyu.top:8303/rtp/239.253.43.46:5146
-汕头2,http://14.216.158.211:8188/rtp/239.253.43.46:5146
+汕头2,http://119.136.88.81:5140/IPTV-广东地方台/汕头经济生活高清
 汕头2,https://gd.luzong.cc.cd/stjj
 
 汕头3,
@@ -344,20 +344,20 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 汕头2HD,http://61.145.188.90:50055/udp/239.253.43.46:5146
 汕头3HD,
 
-汕头1HD,http://115.29.208.41:23888/api.php?token=yJBzYrlt&play=UYShGMEN3bMZke4VlT0MUeT9HNNlGR1dkTFRkNq1TTPRGR2dkYsdmeDRXOhp0R1ZEZ5cUMuxmQj9DRwlkWxQmeERTR%3D0
-汕头2HD,http://115.29.208.41:23888/api.php?token=yJBzYrlt&play=UYShGMEN3bMZke4VlT0MUeT9HNNlGR1dkTFRkNq1TTPRGR2dkYsdmeDRXOhp0R1ZEZ5cUMuxmQj9DRwlkWxQmeERTS%3D0
+汕头1HD,http://218.13.148.152:5140/IPTV-广东地方台/汕头综合
+汕头2HD,http://218.13.148.152:5140/IPTV-广东地方台/汕头经济生活
 汕头3HD,http://ikuai.cyruslee.top:8888/udp/239.253.43.45:5146
 
-汕头1HD,http://47.100.29.86:21345/gd.php?id=gd-st-1-2
-汕头2HD,http://47.100.29.86:21345/gd.php?id=gd-st-2-2
+汕头1HD,http://183.7.150.13:5140/广东/汕头新闻综合
+汕头2HD,http://183.7.150.13:5140/广东/汕头经济生活
 汕头3HD,http://113.86.204.79:9999/udp/239.253.43.47:5146
 
 电信
 
-汕头1电信,http://iptv.xxika.net:8188/udp/239.253.43.45:5146
-汕头1电信,http://gdczdx.sohu.blog:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-汕头2电信,http://iptv.xxika.net:8188/udp/239.253.43.46:5146
-汕头2电信,http://129.211.14.102:25000/gdst.php?id=st2&token=www.9kds.com
+汕头1电信,http://113.116.247.175:5140/IPTV-广东地方台/汕头综合
+汕头1电信,http://8.134.175.232:4022/IPTV-广东电视台/汕头综合
+汕头2电信,http://113.116.247.175:5140/IPTV-广东地方台/汕头经济生活
+汕头2电信,http://8.134.175.232:4022/IPTV-广东电视台/汕头经济生活
 汕头3电信,http://14.216.158.211:8188/rtp/239.253.43.45:5146
 汕头3电信,
 8
