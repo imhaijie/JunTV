@@ -330,11 +330,11 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8#https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1/index.m3u8?contentid=2820180516001#https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1_md.m3u8
 
 汕头1,http://ymz.stkeyu.top:8303/rtp/239.253.43.45:5146
-汕头1,http://119.136.88.81:5140/IPTV-广东地方台/汕头综合高清
+汕头1,http://218.13.148.152:5140/IPTV-广东地方台/汕头综合
 汕头1,https://gd.luzong.cc.cd/stzh
 
 汕头2,http://ymz.stkeyu.top:8303/rtp/239.253.43.46:5146
-汕头2,http://119.136.88.81:5140/IPTV-广东地方台/汕头经济生活高清
+汕头2,http://218.13.148.152:5140/IPTV-广东地方台/汕头经济生活
 汕头2,https://gd.luzong.cc.cd/stjj
 
 汕头3,
