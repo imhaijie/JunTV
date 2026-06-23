@@ -16,9 +16,10 @@ https://gh-proxy.org/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto
 https://gh-proxy.org/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/myMIGU/refs/heads/main/migu.m3u
 https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/iptv8/refs/heads/main/bbxx_lite.m3u
-
+https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/wangzizb.txt
+https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/shenqu.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u
-https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容
+
 https://gitee.com/alexkw/app/raw/master/kgk.txt
 https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
 https://cloud.7so.top/f/volzIA/LiTV.m3u
