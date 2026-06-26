@@ -19,6 +19,7 @@ https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/iptv8/refs/h
 https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/wangzizb.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/shenqu.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u
+https://gh-proxy.org/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/refs/heads/main/gatzb.txt
 
 https://gitee.com/alexkw/app/raw/master/kgk.txt
 https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
