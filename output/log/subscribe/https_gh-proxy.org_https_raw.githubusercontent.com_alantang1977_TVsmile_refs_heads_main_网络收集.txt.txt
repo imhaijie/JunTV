@@ -1,4 +1,4 @@
-2026/06/21 12:45更新,#genre#
+2026/06/27 11:48更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB翡翠,http://r.jdshipin.com/62WM7
@@ -19,7 +19,6 @@ TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB+备3,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -40,7 +39,6 @@ TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -48,35 +46,6 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
 港澳E组,#genre#
-TVBS欢乐台,https://4gtv.158.qzz.io/163189/1e0bdf17-436e-40d9-b442-ca3e2bf3d1db/
-TVBS精采台,https://4gtv.158.qzz.io/163189/acd6cbf9-8405-49c0-bf37-f7c620ccc391/
-大爱电视,https://4gtv.158.qzz.io/163189/36587122-152c-451b-9d6b-83a856574489/
-东森财经新闻台,https://4gtv.158.qzz.io/163189/15801af6-42b5-47b0-9c68-908ce9d1ae29/
-华视,https://4gtv.158.qzz.io/163189/b6656a22-9521-40ee-85d5-d4bee1560858/
-华视新闻,https://4gtv.158.qzz.io/163189/5570e8fd-69cc-43ad-8de6-e1ac63895bd4/
-寰宇新闻台湾台,https://4gtv.158.qzz.io/163189/ca41743f-7a1b-4040-872a-bc8c26229a4f/
-靖天日本台,https://4gtv.158.qzz.io/163189/9f56958f-4a50-4fc6-9407-a7e8b23a34e0/
-民视第一台,https://4gtv.158.qzz.io/163189/4e693d45-7ab4-4894-a983-fb494ad9a0f7/
-民视第一台,https://4gtv.158.qzz.io/163189/57170774-ef9b-4091-94fb-55f6faf13691/
-民视旅游台,https://4gtv.158.qzz.io/163189/d1b273d2-cec3-4526-aadf-aefcea29787f/
-民视台湾台,https://4gtv.158.qzz.io/163189/73c6ffb5-cddd-4b68-bf4b-7083fd5c08d3/
-民视新闻台,https://4gtv.158.qzz.io/163189/ca241422-9067-424c-bbd7-9aab4a6a39b0/
-民视影剧台,https://4gtv.158.qzz.io/163189/1bdede17-7384-47ca-9474-67137cd4f62c/
-民视综艺台,https://4gtv.158.qzz.io/163189/41a2c075-fa1f-43b5-acfd-ea3be3f317db/
-三立综合台,https://4gtv.158.qzz.io/163189/3d610e6d-aa4f-48bf-8516-eb823977d10f/
-中视,https://4gtv.158.qzz.io/163189/430fbb09-b79e-42ca-9cf4-b67f83b4eaf6/
-中视新闻,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
-猪哥亮歌厅秀,https://4gtv.158.qzz.io/163189/b0f042ad-8b42-4a86-b8ab-266988e66c93/
-
-港澳F组,#genre#
-TVBS新闻,https://4g.158.qzz.io/163189/351e8567ea4a6f99
-TVBS,https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
-东森新闻台,https://4g.158.qzz.io/163189/d7e9f69dcbba2a23
-寰宇新闻台,https://4g.158.qzz.io/163189/404c15e617dc9581
-民视,https://4g.158.qzz.io/163189/0294790909bc9b0e
-中天新闻台,https://4g.158.qzz.io/163189/60f5c767b807519a
-
-港澳G组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
@@ -91,7 +60,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
-港澳H组,#genre#
+港澳F组,#genre#
 爱情片-戏剧性的一夜,https://hd.ijycnd.com/play/6dBBrrWd/index.m3u8
 动画片-蝙蝠侠：红影迷踪,https://hd.ijycnd.com/play/zbqxpl0a/index.m3u8
 动作片-中天,https://hd.ijycnd.com/play/Le3KwAe6/index.m3u8
@@ -107,7 +76,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 喜剧片-无线电时代,https://hd.ijycnd.com/play/Le3Qy7xb/index.m3u8
 喜剧片-戏剧训练营,https://hd.ijycnd.com/play/6dBj2mkd/index.m3u8
 
-港澳I组,#genre#
+港澳G组,#genre#
 八大精彩4Gtv,http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv034/index.m3u8?proxy=true
 八大综艺4Gtv,http://220.135.64.124:5050/4gtv-4gtv039/index.m3u8?proxy=true
@@ -122,22 +91,22 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森购叁4Gtv,http://220.135.64.124:5050/4gtv-live048/index.m3u8?proxy=true
 东森购壹4Gtv,http://220.135.64.124:5050/4gtv-4gtv102/index.m3u8?proxy=true
 东森购壹4Gtv,http://220.135.64.124:5050/4gtv-live047/index.m3u8?proxy=true
-东森购壹4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv102/index.m3u8?proxy=true
 东森新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
 东森新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv152/index.m3u8?proxy=true
 公视戏剧4Gtv,http://220.135.64.124:5050/4gtv-4gtv042/index.m3u8?proxy=true
 公视戏剧4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv042/index.m3u8?proxy=true
 华视闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv041/index.m3u8?proxy=true
 华视闽南4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
+华视闽南4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 华视新闻4Gtv,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
 华视新闻4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true
 寰宇财经4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv158/index.m3u8?proxy=true
-寰宇财经4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
 寰宇闽南4Gtv,http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
 寰宇闽南4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇闽南4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新闻4Gtv,http://220.135.64.124:5050/li-litv-longturn14/index.m3u8?proxy=true
 寰宇新闻4Gtv,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
+寰宇新闻4Gtv,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
 靖天4Gtv,http://220.135.64.124:5050/4gtv-4gtv063/index.m3u8?proxy=true
 靖天4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv063/index.m3u8?proxy=true
 靖天电影4Gtv,http://220.135.64.124:5050/4gtv-4gtv061/index.m3u8?proxy=true
@@ -170,7 +139,6 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 龙华戏剧4Gtv,http://220.135.64.124:5050/li-litv-longturn18/index.m3u8?proxy=true
 龙华洋片4Gtv,http://220.135.64.124:5050/li-litv-longturn02/index.m3u8?proxy=true
 闽南戏剧4Gtv,http://220.135.64.124:5050/li-litv-longturn22/index.m3u8?proxy=true
-民视第一4Gtv,http://220.135.64.124:5050/4gtv-4gtv003/index.m3u8?proxy=true
 民视第一4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv003/index.m3u8?proxy=true
 民视旅游4Gtv,http://220.135.64.124:5050/li-litv-ftv07/index.m3u8?proxy=true
 民视旅游4Gtv,http://220.135.64.124:5050/litv-ftv07/index.m3u8?proxy=true
@@ -207,11 +175,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 猪哥亮厅4Gtv,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮厅4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv006/index.m3u8?proxy=true
 
-港澳J组,#genre#
-凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-港澳K组,#genre#
+港澳H组,#genre#
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
 华视,http://74.91.26.218:82/live/cts.m3u8
@@ -227,4 +191,8 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中视菁采台,http://74.91.26.218:82/live/ctvjc.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+
+港澳I组,#genre#
+寰宇新闻台,http://www.kaniptv.cn/ua3.php?etoken=RbbWqhCU4ljrR%2BXmuBWu7Fvh2QTDsGOek7jP3uIQKfgKByGOxbIcrI2b77PQBkgRa2v8xN4XMCRYGcv8pQLU3JDhMKWrf2kW5D98Icya5NdUjzcK4piEvwpRJNDKUihAAEKpm8%2F0bFy%2FMje6RUpo%2B6q9VX5JEzrPXlsklguKfiG0Wqugfndn5Qr3ffV1zp9pkvfwQp33e1JeElDURSdmc85M1A%2B6w%2FZhdtiy0%2FURLQAS6TdOQlBPET8boWXq7Z0uMunW5gCGJlTN6TLtY2D0isLpo3a68nSbGaAQO6mLL5qHQQOaMp%2BHS1JZ6eyRtYKF9wGnglbYkxmBwh6M3gX27A%3D%3D
+中天新闻台,http://www.kaniptv.cn/ua3.php?etoken=m1jBeZ6pPQWBnKTP4dIXI7Nqwc5dfmbdTt7q9eR%2BVM1N1vrRnukJbMwV5gyySRTGX7l473fyDLAmZruf53ok%2B0ycz3CBk87G0XDcC4TH1ROAs3UVFxCOP2F2GQUh0u5GMytVnvmeADQqZg4e5EQW32CUaKAXNtHCKUq8Jba52fcKI%2F5rG%2BuWIn%2BrHACdELABB7IIpDLliZegojaVp%2BBk0zzCbtX%2BKLaeH3cWrYH8Nv%2Fs1rnm%2F%2BDv%2FwF5%2B3AXEQJGmaIS8XMZFvaeT0AzRl2xgQTFeqbsQE2kZbCM7wXHLpg1TfYXRaajBsFZFNaAQFy34ISU9wqf4L%2Fe2TDnf6%2FoUg%3D%3D
 
