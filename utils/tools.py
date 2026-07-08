@@ -1,6 +1,7 @@
 import copy
 import datetime
 import hashlib
+import ipaddress
 import json
 import logging
 import os
@@ -26,6 +27,7 @@ from utils.i18n import t
 from utils.types import ChannelData
 
 opencc_t2s = OpenCC("t2s")
+_channel_alias_instance = None
 
 
 def get_logger(path, level=logging.ERROR, init=False):
@@ -189,7 +191,13 @@ def get_resolution_value(resolution_str):
     return 0
 
 
-def get_total_urls(info_list: list[ChannelData], ipv_type_prefer, origin_type_prefer, rtmp_type=None) -> list:
+def get_total_urls(
+        info_list: list[ChannelData],
+        ipv_type_prefer,
+        origin_type_prefer,
+        rtmp_type=None,
+        apply_limit: bool = True,
+) -> list:
     """
     Get the total urls from info list
     """
@@ -199,7 +207,8 @@ def get_total_urls(info_list: list[ChannelData], ipv_type_prefer, origin_type_pr
         ipv_type_prefer = ["all"]
     if not origin_prefer_bool:
         origin_type_prefer = ["all"]
-    categorized_urls = {origin: {ipv_type: [] for ipv_type in ipv_type_prefer} for origin in origin_type_prefer}
+    primary_urls = {origin: {ipv_type: [] for ipv_type in ipv_type_prefer} for origin in origin_type_prefer}
+    supply_urls = {origin: {ipv_type: [] for ipv_type in ipv_type_prefer} for origin in origin_type_prefer}
     total_urls = []
     for info in info_list:
         channel_id, url, origin, resolution, url_ipv_type, extra_info = (
@@ -233,27 +242,36 @@ def get_total_urls(info_list: list[ChannelData], ipv_type_prefer, origin_type_pr
         if not origin_prefer_bool:
             origin = "all"
 
+        categorized_urls = supply_urls if info.get("supply") else primary_urls
         if ipv_prefer_bool:
             if url_ipv_type in ipv_type_prefer:
                 categorized_urls[origin][url_ipv_type].append(info)
         else:
             categorized_urls[origin]["all"].append(info)
 
-    urls_limit = config.urls_limit
-    for origin in origin_type_prefer:
-        if len(total_urls) >= urls_limit:
-            break
-        for ipv_type in ipv_type_prefer:
-            if len(total_urls) >= urls_limit:
-                break
-            urls = categorized_urls[origin].get(ipv_type, [])
-            if not urls:
-                continue
-            remaining = urls_limit - len(total_urls)
-            limit_urls = urls[:remaining]
-            total_urls.extend(limit_urls)
+    urls_limit = config.urls_limit if apply_limit else None
 
-    total_urls = total_urls[:urls_limit]
+    def fill_urls(categorized):
+        for origin in origin_type_prefer:
+            if urls_limit is not None and len(total_urls) >= urls_limit:
+                break
+            for ipv_type in ipv_type_prefer:
+                if urls_limit is not None and len(total_urls) >= urls_limit:
+                    break
+                urls = categorized[origin].get(ipv_type, [])
+                if not urls:
+                    continue
+                if urls_limit is None:
+                    total_urls.extend(urls)
+                else:
+                    remaining = urls_limit - len(total_urls)
+                    total_urls.extend(urls[:remaining])
+
+    fill_urls(primary_urls)
+    fill_urls(supply_urls)
+
+    if urls_limit is not None:
+        total_urls = total_urls[:urls_limit]
 
     return total_urls
 
@@ -410,6 +428,22 @@ def get_logo_url():
     return logo_url
 
 
+def get_channel_epg_id(name: str | None) -> str:
+    """
+    Get a stable channel id shared by generated M3U tvg-id and EPG channel id.
+    """
+    if not name:
+        return ""
+
+    global _channel_alias_instance
+    if _channel_alias_instance is None:
+        from utils.alias import Alias
+
+        _channel_alias_instance = Alias()
+
+    return _channel_alias_instance.get_primary(name)
+
+
 def convert_to_m3u(path=None, first_channel_name=None, data=None):
     """
     Convert result txt to m3u format
@@ -420,8 +454,6 @@ def convert_to_m3u(path=None, first_channel_name=None, data=None):
             current_group = None
             logo_url = get_logo_url()
             from_fanmingming = "https://raw.githubusercontent.com/fanmingming/live/main/tv" in logo_url
-            name_id_map = {}
-            next_id = 1
             for line in file:
                 trimmed_line = line.strip()
                 if trimmed_line != "":
@@ -444,15 +476,8 @@ def convert_to_m3u(path=None, first_channel_name=None, data=None):
                                           + ("+" if m.group(3) else ""),
                                 use_name,
                             )
-                        tvg_id = name_id_map.get(processed_channel_name)
-                        if tvg_id is None:
-                            tvg_id = next_id
-                            name_id_map[processed_channel_name] = tvg_id
-                            next_id += 1
+                        tvg_id = get_channel_epg_id(use_name) or processed_channel_name
 
-                        m3u_output += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{processed_channel_name}" tvg-logo="{join_url(logo_url, f"{processed_channel_name}.{config.logo_type}")}"'
-                        if current_group:
-                            m3u_output += f' group-title="{current_group}"'
                         item_data = {}
                         if data:
                             item_list = data.get(original_channel_name, [])
@@ -460,17 +485,26 @@ def convert_to_m3u(path=None, first_channel_name=None, data=None):
                                 if item["url"] == channel_link:
                                     item_data = item
                                     break
+                        channel_logo = ""
+                        if config.open_subscribe_logo and item_data:
+                            channel_logo = item_data.get("tvg_logo") or ""
+                        if not channel_logo:
+                            channel_logo = join_url(logo_url, f"{processed_channel_name}.{config.logo_type}")
+
+                        m3u_output += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{processed_channel_name}" tvg-logo="{channel_logo}"'
+                        if current_group:
+                            m3u_output += f' group-title="{current_group}"'
                         if item_data:
                             catchup = item_data.get("catchup")
                             if catchup:
                                 for key, value in catchup.items():
                                     m3u_output += f' {key}="{value}"'
                         m3u_output += f",{original_channel_name}\n"
-                        if item_data and config.open_headers:
-                            headers = item_data.get("headers")
-                            if headers:
-                                for key, value in headers.items():
-                                    m3u_output += f"#EXTVLCOPT:http-{key.lower()}={value}\n"
+                        item_headers = dict(item_data.get("headers") or {}) if item_data else {}
+                        if config.user_agent and "User-Agent" not in item_headers:
+                            item_headers["User-Agent"] = config.user_agent
+                        for key, value in item_headers.items():
+                            m3u_output += f"#EXTVLCOPT:http-{key.lower()}={value}\n"
                         m3u_output += f"{channel_link}\n"
             m3u_file_path = os.path.splitext(path)[0] + ".m3u"
             with open(m3u_file_path, "w", encoding="utf-8") as m3u_file:
@@ -626,6 +660,25 @@ def get_headers_key_value(content: str) -> dict:
     return key_value
 
 
+def get_m3u_epg_urls(content: str) -> list[str]:
+    """
+    Extract EPG urls declared in the m3u #EXTM3U header (url-tvg / x-tvg-url).
+    """
+    urls = []
+    for line in content.splitlines():
+        stripped = line.strip()
+        if not stripped.startswith("#EXTM3U"):
+            continue
+        attributes = get_headers_key_value(stripped[len("#EXTM3U"):])
+        for key in ("urltvg", "xtvgurl"):
+            for url in attributes.get(key, "").split(","):
+                url = url.strip()
+                if url.startswith(("http://", "https://")) and url not in urls:
+                    urls.append(url)
+        break
+    return urls
+
+
 def get_name_value(content, pattern, open_headers=False, check_value=True):
     """
     Extract name and value from content using a regex pattern.
@@ -635,19 +688,14 @@ def get_name_value(content, pattern, open_headers=False, check_value=True):
     :param check_value: bool, whether to validate the presence of a URL.
     """
     result = []
-    for match in pattern.finditer(content):
-        group_dict = match.groupdict()
-        name = (group_dict.get("name", "") or "").strip()
-        value = (group_dict.get("value", "") or "").strip()
+
+    def append_item(name, value, attributes):
         if not name or (check_value and not value):
-            continue
-        data = {"name": name, "value": value}
-        attributes = {**get_headers_key_value(group_dict.get("attributes", "")),
-                      **get_headers_key_value(group_dict.get("options", ""))}
+            return
         headers = {
             "User-Agent": attributes.get("useragent", ""),
             "Referer": attributes.get("referer", ""),
-            "Origin": attributes.get("origin", "")
+            "Origin": attributes.get("origin", ""),
         }
         catchup = {
             "catchup": attributes.get("catchup", ""),
@@ -656,11 +704,88 @@ def get_name_value(content, pattern, open_headers=False, check_value=True):
         headers = {k: v for k, v in headers.items() if v}
         catchup = {k: v for k, v in catchup.items() if v}
         if not open_headers and headers:
-            continue
+            return
+        item = {"name": name, "value": value, "catchup": catchup, "tvg_logo": attributes.get("tvglogo", "")}
         if open_headers:
-            data["headers"] = headers
-        data["catchup"] = catchup
-        result.append(data)
+            item["headers"] = headers
+        result.append(item)
+
+    if pattern is constants.multiline_m3u_pattern:
+        lines = content.splitlines()
+        index = 0
+        total = len(lines)
+
+        while index < total:
+            raw_line = lines[index]
+            stripped = raw_line.strip()
+            if not stripped.startswith("#EXTINF:-1"):
+                index += 1
+                continue
+
+            remainder = stripped[len("#EXTINF:-1"):].strip()
+            if not remainder:
+                index += 1
+                continue
+
+            in_quote = None
+            separator_index = None
+            for pos, char in enumerate(remainder):
+                if char in ('"', "'"):
+                    if in_quote == char:
+                        in_quote = None
+                    elif in_quote is None:
+                        in_quote = char
+                elif char == ',' and in_quote is None:
+                    separator_index = pos
+                    break
+
+            if separator_index is None:
+                separator_index = remainder.rfind(',')
+                if separator_index < 0:
+                    index += 1
+                    continue
+
+            attributes_text = remainder[:separator_index].strip()
+            name = remainder[separator_index + 1:].strip()
+            index += 1
+
+            options_lines = []
+            value = ""
+            while index < total:
+                candidate_raw = lines[index]
+                candidate = candidate_raw.strip()
+
+                if not candidate:
+                    index += 1
+                    continue
+
+                if candidate.startswith("#EXTVLCOPT:"):
+                    options_lines.append(candidate)
+                    index += 1
+                    continue
+
+                if candidate.startswith("#EXTINF:-1"):
+                    break
+
+                value = candidate
+                index += 1
+                break
+
+            if not name or (check_value and not value):
+                continue
+
+            attributes = get_headers_key_value("\n".join([part for part in [attributes_text, *options_lines] if part]))
+            append_item(name, value, attributes)
+
+        return result
+
+    for match in pattern.finditer(content):
+        group_dict = match.groupdict()
+        name = (group_dict.get("name", "") or "").strip()
+        value = (group_dict.get("value", "") or "").strip()
+        attributes = {**get_headers_key_value(group_dict.get("options", "")),
+                      **get_headers_key_value(group_dict.get("attributes", ""))}
+        append_item(name, value, attributes)
     return result
 
 
@@ -831,6 +956,37 @@ def github_blob_to_raw(url: str) -> str:
     return raw_url
 
 
+def get_request_url_candidates(url: str) -> List[str]:
+    """
+    Build the ordered list of candidate request urls for a source url. For
+    raw.githubusercontent.com urls every configured CDN mirror in
+    config.cdn_urls is prefixed in order so a failed mirror can fall back to
+    the next one; other urls return themselves. CDN is skipped under GitHub Actions.
+    """
+    if not os.getenv("GITHUB_ACTIONS") and config.cdn_urls:
+        raw_url = github_blob_to_raw(url)
+        if "raw.githubusercontent.com" in raw_url:
+            return [join_url(cdn, raw_url) for cdn in config.cdn_urls]
+        return [raw_url]
+    return [url]
+
+
+def request_first(candidates: List[str], fetch):
+    """
+    Try fetch(url) for each candidate url in order, returning the first
+    successful result; raise the last error if every candidate fails.
+    """
+    last_error = None
+    for url in candidates:
+        try:
+            return fetch(url)
+        except Exception as e:
+            last_error = e
+    if last_error:
+        raise last_error
+    return None
+
+
 def add_port_to_url(url: str, port: int) -> str:
     """
     Add port to the url
@@ -888,6 +1044,7 @@ def custom_print(*args, **kwargs):
     Custom print
     """
     if not custom_print.disable:
+        kwargs.setdefault("flush", True)
         print(*args, **kwargs)
 
 
@@ -1094,9 +1251,11 @@ def get_subscribe_entries(path: str = "config/subscribe.txt") -> tuple[list, lis
     if not os.path.exists(real_path):
         return inside, outside
 
-    header_re = re.compile(r"^\[.*\]$")
+    header_re = re.compile(r"^\[.*]$")
     in_section = False
     kv_re = re.compile(r"(?P<k>\w+)=((?P<q>\".*?\"|'.*?')|(?P<v>\S+))")
+    seen_inside = set()
+    seen_outside = set()
 
     with open(real_path, "r", encoding="utf-8") as f:
         for raw in f:
@@ -1113,30 +1272,170 @@ def get_subscribe_entries(path: str = "config/subscribe.txt") -> tuple[list, lis
             match = constants.url_pattern.search(s)
             if not match:
                 continue
+
             url = match.group().strip()
             remainder = s[match.end():].strip()
             headers = {}
             for m in kv_re.finditer(remainder):
-                key = m.group('k')
-                val = m.group('q') or m.group('v')
+                key = m.group("k")
+                val = m.group("q") or m.group("v")
                 if not val:
                     continue
                 val = val.strip()
                 if (val.startswith('"') and val.endswith('"')) or (val.startswith("'") and val.endswith("'")):
                     val = val[1:-1]
-                if key.lower() == 'ua' or key.lower() == 'useragent' or key.lower() == 'user-agent':
-                    headers['User-Agent'] = val
+                if key.lower() in ("ua", "useragent", "user-agent"):
+                    headers["User-Agent"] = val
                 else:
                     headers[key] = val
 
-            entry = {'url': url}
+            entry = {"url": url}
             if headers:
-                entry['headers'] = headers
+                entry["headers"] = headers
 
             target = inside if in_section else outside
+            seen = seen_inside if in_section else seen_outside
+            dedupe_key = (url, tuple(sorted(headers.items())))
+            if dedupe_key in seen:
+                continue
+            seen.add(dedupe_key)
             target.append(entry)
 
     return inside, outside
+
+
+def count_disabled_urls(path: str) -> int:
+    """
+    Count disabled url lines in the config file.
+    """
+    real_path = get_real_path(resource_path(path))
+    if not os.path.exists(real_path):
+        return 0
+
+    disabled_count = 0
+    with open(real_path, "r", encoding="utf-8") as f:
+        for raw in f:
+            line = raw.strip()
+            if not line.startswith("#"):
+                continue
+            commented = line.lstrip("#").strip()
+            if commented and constants.url_pattern.match(commented):
+                disabled_count += 1
+    return disabled_count
+
+
+def disable_urls_in_file(path: str, urls: Iterable[str]) -> dict[str, int]:
+    """
+    Comment out matching url lines in the config file and return counts.
+    Returns: {"disabled": <disabled_count>, "active": <active_count>}
+    Disabled urls are moved after active urls within the same section, separated by one blank line.
+    """
+    target_urls = {url.strip() for url in urls if url and str(url).strip()}
+    if not target_urls:
+        return {"disabled": 0, "active": 0}
+
+    real_path = get_real_path(resource_path(path))
+    if not os.path.exists(real_path):
+        return {"disabled": 0, "active": 0}
+
+    header_re = re.compile(r"^\s*\[.*]\s*$")
+
+    try:
+        with open(real_path, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+
+        newline = "\r\n" if any(line.endswith("\r\n") for line in lines) else "\n"
+
+        def new_section(header=None):
+            return {"header": header, "misc": [], "active": [], "disabled": []}
+
+        sections = [new_section()]
+        disabled_count = 0
+        active_count = 0
+
+        for raw in lines:
+            stripped = raw.strip()
+
+            if not stripped:
+                continue
+
+            if header_re.match(stripped):
+                sections.append(new_section(raw.rstrip("\r\n")))
+                continue
+
+            current = sections[-1]
+            indent = raw[: len(raw) - len(raw.lstrip())]
+
+            if stripped.startswith("#"):
+                commented = stripped.lstrip("#").strip()
+                match = constants.url_pattern.search(commented)
+                if match:
+                    url = match.group("url").strip()
+                    if url in target_urls:
+                        current["disabled"].append((indent, url))
+                        disabled_count += 1
+                    else:
+                        current["misc"].append(raw.rstrip("\r\n"))
+                else:
+                    current["misc"].append(raw.rstrip("\r\n"))
+                continue
+
+            match = constants.url_pattern.search(stripped)
+            if match:
+                url = match.group("url").strip()
+                if url in target_urls:
+                    current["disabled"].append((indent, url))
+                    disabled_count += 1
+                else:
+                    current["active"].append(raw.rstrip("\r\n"))
+                    active_count += 1
+            else:
+                current["misc"].append(raw.rstrip("\r\n"))
+
+        output_lines = []
+        for section in sections:
+            section_lines = []
+
+            if section["header"] is not None:
+                if output_lines and output_lines[-1] != "":
+                    output_lines.append("")
+                output_lines.append(section["header"])
+
+            section_lines.extend(section["misc"])
+            section_lines.extend(section["active"])
+
+            if section_lines and section["disabled"]:
+                if section_lines[-1] != "":
+                    section_lines.append("")
+
+            section_lines.extend(f"{indent}# {url}" for indent, url in section["disabled"])
+
+            cleaned_lines = []
+            prev_blank = False
+            for line in section_lines:
+                if not line.strip():
+                    if not prev_blank:
+                        cleaned_lines.append("")
+                    prev_blank = True
+                else:
+                    cleaned_lines.append(line)
+                    prev_blank = False
+
+            output_lines.extend(cleaned_lines)
+
+        new_content = newline.join(output_lines)
+        if lines and lines[-1].endswith(("\n", "\r")):
+            new_content += newline
+
+        original_content = "".join(lines)
+        if new_content != original_content:
+            with open(real_path, "w", encoding="utf-8") as f:
+                f.write(new_content)
+
+        return {"disabled": disabled_count, "active": active_count}
+    except Exception as e:
+        print(f"Failed to auto-disable urls in {real_path}: {e}")
+        return {"disabled": 0, "active": 0}
 
 
 def close_logger_handlers(logger) -> None:
@@ -1147,3 +1446,20 @@ def close_logger_handlers(logger) -> None:
         except Exception:
             pass
         logger.removeHandler(h)
+
+
+def fast_get_ipv_type(host: str | None) -> str | None:
+    """
+    Infer the IPv type from a host string without DNS resolution.
+    """
+    if not host:
+        return None
+
+    normalized_host = host.strip().strip("[]")
+    if "%" in normalized_host:
+        normalized_host = normalized_host.split("%", 1)[0]
+
+    try:
+        return f"ipv{ipaddress.ip_address(normalized_host).version}"
+    except ValueError:
+        return "ipv4"
