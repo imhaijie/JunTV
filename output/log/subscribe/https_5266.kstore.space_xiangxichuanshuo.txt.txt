@@ -598,104 +598,28 @@ IPTV5+é«æ¸,http://tv.zhangzp.top:4022/udp/239.125.1.25:5000
 æé½å°å¿,https://www.pantxt.top/f/D1oi3/k-web/ku9/js/cdu.js?id=cdse
 æé½æ¦ååé,https://www.pantxt.top/f/D1oi3/k-web/ku9/js/cdu.js?id=cdrc
 
-ð°ï¸é¿åå½é,#genre#,JS=https://www.pantxt.top/f/1xKFq/iptv.js
-
-ä¸­å¤©æ°é»,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=ztxw
-æ°è§æ çº¿å°,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=mswx
-åè§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=hs
-TVBS,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=tvbs
-å¤§ç±çµè§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=datv
-å¥½æ¶æ¯2å°,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=good2
-æä»å§åº,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=kljc
-é¿æ±å§åº,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=cjjc
-åç¾ç¦ç¹æ°é»å°,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=bmjdxw
-åç¾ç¾é£æ­å®¢,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=bmms
-åç¾çæ´»è§é¢,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=bmsh
-CCTV-4,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=cctv4
-CCTV-5,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=cctv5
-CCTV-6,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=cctv6
-ä¸­å½çµå½±é¢é,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=zgdy
-åäº¬å«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=bjws
-ä¸æ¹å«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=dfws
-å®å¾½å«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=ahws
-æ¹åå«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=hubws
-æ¹åå«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=hunws
-æ±èå«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=jsws
-æµæ±å«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=zjws
-æµ·å³¡å«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=hxws
-å¤§æ¹¾åºå«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=dwqws
-å¹¿è¥¿å«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=gxws
-äºåå«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=ynws
-è´µå·å«è§,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=gzws
-ä¸æ¹è´¢ç»,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=dfcj
-éé¹°å¡é,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=jykt
-å¤å°ä¸­æ,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=fhzw
-å¤å°èµè®¯,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=fhzx
-å¤å°é¦æ¸¯,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=fhxg
-å¤å°ç¾æ´²,http://A/ku9/js/iptv.js?key=xianxiwsQQç¾¤746405779&id=fhmz
 
 ð¹ð¼ä¸­åçµä¿¡,#genre#
+ä¸­å¤©æ°é»,http://173.208.234.146/live/ctinews.m3u8
+ç¾äºçµå½±,http://173.208.234.146/live/mymovie.m3u8
+å¤©æ é¢é,http://173.208.234.146/live/typd.m3u8
+NOWæå½±å°,http://173.208.234.146/live/nowxy.m3u8
+NOWçè°·å°,http://173.208.234.146/live/nowbg.m3u8
+å¤å°é¦æ¸¯,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=fhxg
+å¤å°ç¾æ´²,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=fhmz
+ä¸­å½çµå½±é¢é,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=zgdy
+ä¸­å¤©æ°é»,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=ztxw
+æ°è§æ çº¿å°,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=mswx
+åè§,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=hs
+TVBS,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=tvbs
+å¤§ç±çµè§,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=datv
+å¥½æ¶æ¯2å°,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=good2
+æä»å§åº,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=kljc
+é¿æ±å§åº,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=cjjc
+åç¾ç¦ç¹æ°é»å°,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=bmjdxw
+åç¾ç¾é£æ­å®¢,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=bmms
+åç¾çæ´»è§é¢,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=bmsh
 
-ä¸­å¤©æ°é»,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=cti_news
-éå¡æ°é»,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=unique_business_news
-å°è§æ°é»,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ttv_news
-æ°è§æ°é»,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ftv_news
-å¯°å®æ°é»,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=global_news
-ä¸­è§æ°é»,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ctv_news
-TVBSæ°é»å°,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=tvbs_news
-ä¸æ£®æ°é»,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ettv_news
-ä¸æ£®è´¢ç»,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ettv_business
-ä¸æ£®å¹¼å¹¼,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=yoyo_tv
-ç¾äºçµå½±,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=matv
-ä¸æ£®æ´ç,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ettv_western
-é¾åæ´ç,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=lunghua_western
-é¾ç¥¥æ¶ä»£,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ls_time
-çº¬æ¥çµå½±,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=videoland_movie
-çº¬æ¥ä½è²,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=videoland_sports
-çº¬æ¥ç»¼å,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=videoland_ontv
-çº¬æ¥è²ä¹,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=videoland_max
-çº¬æ¥æå§,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=videoland_gtv
-ä¸æ£®ç»¼å,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ettv_metro
-ä¸æ£®æå§,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ettv_drama
-å¬è§å°æ¹¾å°,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=pts2
-é¾åæå§,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=lunghua_drama
-é¾åç»å¸,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=longhua_classic
-é¾åå¶å,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=longhua_idol
-å¤©æ é¢é,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ctv
-ä¸æ£®çµå½±,http://154.219.125.7:8088/iptvtw.php?id=ettv_movie&key=xiangxiws2026
-åäºä¸­æå°,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=star-movies-chinese
-EYEææ¸¸å°,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=eye-tv-travel
-EYEæå§å°,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=eye-tv-drama
-éå¤©å¡éå°,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=golden-cartoon
-arirang,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=arirang
-åæ¯è¿å¨1,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=sportcast-sport-1
-åæ¯è¿å¨2,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=sportcast-sport-2
-å°æ¹¾MTV,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=mtv-live
-ä¸ç«å½é,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=sanli-metro
-ä¸ç«é½ä¼,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=set-metro
-AXNå°æ¹¾,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=axn-taiwan
-HBO,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=hbo
-TVBS,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=tvbs
-TVBSæ¬¢ä¹,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=tvbs-joy
-HBO2,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=hbo-signature-taiwan
-ä¸­å¤©å¨±ä¹,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=cti-entertaiment
-ä¸­å¤©ç»¼å,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=cti-metro
-å¥½è±åçµå½±å°,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=hollywood-movies
-ä¸­å¤©äºæ´²,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=cti-asia
-å°è§ç»¼å,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ttv-variety
-æ°è§,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=ftv
-åè§,http://154.219.125.7:8088/iptvtw.php?key=xiangxiws2026&id=cts
-starplus-hd,http://154.219.125.7:8088/iptvtw.php?id=starplus-hd&from=indian&key=xiangxiws2026
-celestial-movies,http://154.219.125.7:8088/iptvtw.php?id=celestial-movies&from=indonesia&key=xiangxiws2026
-æ°å å¡8é¢é,http://154.219.125.7:8088/iptvtw.php?id=channel-8-backup&from=singapore&key=xiangxiws2026
-cna-backup1,http://154.219.125.7:8088/iptvtw.php?id=cna-backup1&from=singapore&key=xiangxiws2026
-astroæ¬¢åå°,http://154.219.125.7:8088/iptvtw.php?id=astro-qj&from=malaysia&key=xiangxiws2026
-astroç±å¥èº,http://154.219.125.7:8088/iptvtw.php?id=iqiyi&from=malaysia&key=xiangxiws2026
-Astro aec,http://154.219.125.7:8088/iptvtw.php?id=aec&from=malaysia&key=xiangxiws2026
-Astroæ¬¢åå°,http://154.219.125.7:8088/iptvtw.php?id=hua-hee-tai&from=malaysia&key=xiangxiws2026
-TVBææ²³å½è¯­,http://154.219.125.7:8088/iptvtw.php?id=xing-he&from=malaysia&key=xiangxiws2026
-æ¢¦å·¥åå¨ç»å°,http://154.219.125.7:8088/iptvtw.php?id=dreamworks&from=malaysia&key=xiangxiws2026
-starmaa-movies,http://154.219.125.7:8088/iptvtw.php?id=starmaa-movies-hd&from=indian&key=xiangxiws2026
 
 
 

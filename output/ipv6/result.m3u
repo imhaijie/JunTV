@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/imhaijie/JunTV/refs/heads/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🕘️更新时间",2026-07-21 17:40:48
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🕘️更新时间",2026-07-27 12:30:58
 http://183.10.180.133:212/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🍄┃广东频道",广州综合
 http://183.10.180.133:212/tsfile/live/1035_1.m3u8
@@ -1087,6 +1087,8 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 http://smt.1678520.xyz/smt3.2.3.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-id="*HOY 資訊台" tvg-name="HOY资讯台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY资讯台.png" group-title="🚂┃湾区频道",HOY资讯台
 https://fast.hidns.vip/163189/hoy78
+#EXTINF:-1 tvg-id="*HOY 資訊台" tvg-name="HOY资讯台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY资讯台.png" group-title="🚂┃湾区频道",HOY资讯台
+https://test.946985.filegear-sg.me/proxy/f8e49c3e309b2c89
 #EXTINF:-1 tvg-id="RHK 31" tvg-name="RHK 31" tvg-logo="https://www.xn--rgv465a.top/tvlogo/RHK 31.png" group-title="🚂┃湾区频道",RHK 31
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="RHK 31" tvg-name="RHK 31" tvg-logo="https://www.xn--rgv465a.top/tvlogo/RHK 31.png" group-title="🚂┃湾区频道",RHK 31
@@ -1257,6 +1259,8 @@ https://stream1.freetv.fun/you-xian-xin-wen-1.m3u8
 https://stream1.freetv.fun/you-xian-xin-wen-2.m3u8
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/有线新闻.png" group-title="🚂┃湾区频道",有线新闻
 https://cdn.163189.xyz/163189/hoy78
+#EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/有线新闻.png" group-title="🚂┃湾区频道",有线新闻
+https://stream1.freetv.fun/you-xian-xin-wen-15.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS新闻.png" group-title="🚂┃湾区频道",TVBS新闻
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS新闻.png" group-title="🚂┃湾区频道",TVBS新闻
@@ -1367,6 +1371,8 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 http://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOYTV.png" group-title="🚂┃湾区频道",HOYTV
 http://cdn.163189.xyz/163189/hoy
+#EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOYTV.png" group-title="🚂┃湾区频道",HOYTV
+https://test.946985.filegear-sg.me/proxy/ba17d1f96e6841ad
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB Plus.png" group-title="🚂┃湾区频道",TVB Plus
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB Plus.png" group-title="🚂┃湾区频道",TVB Plus
@@ -1397,6 +1403,8 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 #EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立台湾.png" group-title="🚂┃湾区频道",三立台湾
 http://free.cnlive.club/channel/642f20a/index.m3u8
+#EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立台湾.png" group-title="🚂┃湾区频道",三立台湾
+https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻.png" group-title="🚂┃湾区频道",三立新闻
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻.png" group-title="🚂┃湾区频道",三立新闻
@@ -1443,6 +1451,8 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now星影台.png" group-title="🚂┃湾区频道",Now星影台
 http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=KqOtof&tk=4U04NDOE13ra
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Now星影台.png" group-title="🚂┃湾区频道",Now星影台
+https://test.946985.filegear-sg.me/proxy/84de4c236d106553
 #EXTINF:-1 tvg-id="靖天资讯" tvg-name="靖天资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天资讯.png" group-title="🚂┃湾区频道",靖天资讯
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="靖天资讯" tvg-name="靖天资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天资讯.png" group-title="🚂┃湾区频道",靖天资讯
@@ -1551,6 +1561,8 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 http://tl.061833.xyz/tl/null-3
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/千禧經典台.png" group-title="🚂┃湾区频道",千禧經典台
 https://iptv.852851.xyz/ch/76a00255d5a3433482bd21dcab9c2493/master.m3u8
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/千禧經典台.png" group-title="🚂┃湾区频道",千禧經典台
+https://test.946985.filegear-sg.me/proxy/31368ba8378b5adf
 #EXTINF:-1 tvg-id="東森电影国" tvg-name="東森电影国" tvg-logo="https://www.xn--rgv465a.top/tvlogo/東森电影国.png" group-title="🚂┃湾区频道",東森电影国
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="8-度空间国" tvg-name="8-度空间国" tvg-logo="https://www.xn--rgv465a.top/tvlogo/8-度空间国.png" group-title="🚂┃湾区频道",8-度空间国
@@ -1585,6 +1597,8 @@ http://clawcloud.goiptv.de5.net/litv.php?id=litv-xinchuang11&token=xiatianshigou
 https://litv.tzh911.qzz.io/litv.php?id=litv-longturn11&token=https://t.me/GPT_858
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龍華日韓台.png" group-title="🚂┃湾区频道",龍華日韓台
 https://iptv.852851.xyz/ch/b55884742800a3ac267333601d531c9e/master.m3u8
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龍華日韓台.png" group-title="🚂┃湾区频道",龍華日韓台
+https://test.946985.filegear-sg.me/proxy/e22b032d5a9990af
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龍華電影台.png" group-title="🚂┃湾区频道",龍華電影台
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龍華電影台.png" group-title="🚂┃湾区频道",龍華電影台
@@ -1593,6 +1607,8 @@ http://clawcloud.goiptv.de5.net/litv.php?id=litv-xinchuang03&token=xiatianshigou
 https://litv.tzh911.qzz.io/litv.php?id=litv-longturn03&token=https://t.me/GPT_858
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龍華電影台.png" group-title="🚂┃湾区频道",龍華電影台
 https://iptv.852851.xyz/ch/d8c5ad2e2692bdb5b1714937fbd0f7ee/master.m3u8
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龍華電影台.png" group-title="🚂┃湾区频道",龍華電影台
+https://test.946985.filegear-sg.me/proxy/3e25c26d79d21d2d
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="🚂┃湾区频道",香港卫视
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="🚂┃湾区频道",香港卫视
@@ -3897,6 +3913,8 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 http://cdn.jdshipin.com:8880/huya.php?id=29465866
 #EXTINF:-1 tvg-id="火影忍者" tvg-name="火影忍者" tvg-logo="https://www.xn--rgv465a.top/tvlogo/火影忍者.png" group-title="📚┃动画频道",火影忍者
 https://live.ottiptv.cc/huya/29465866
+#EXTINF:-1 tvg-id="火影忍者" tvg-name="火影忍者" tvg-logo="https://www.xn--rgv465a.top/tvlogo/火影忍者.png" group-title="📚┃动画频道",火影忍者
+https://www.goodiptv.club/huya/29465866
 #EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="📚┃动画频道",海绵宝宝
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="📚┃动画频道",海绵宝宝
@@ -3939,6 +3957,8 @@ http://cdn.jdshipin.com:8880/huya.php?id=11352970
 https://live.ottiptv.cc/huya/11352970
 #EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" group-title="📚┃动画频道",蜡笔小新
 https://live.ottiptv.cc/bilibili/30837590
+#EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" group-title="📚┃动画频道",蜡笔小新
+https://www.goodiptv.club/huya/11352970
 #EXTINF:-1 tvg-id="漫画解说" tvg-name="漫画解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/漫画解说.png" group-title="📚┃动画频道",漫画解说
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="漫画解说" tvg-name="漫画解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/漫画解说.png" group-title="📚┃动画频道",漫画解说
