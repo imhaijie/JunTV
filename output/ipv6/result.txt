@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-27 12:30:58,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
+2026-08-03 12:18:24,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
 
 🍄┃广东频道,#genre#
 广州综合,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
@@ -2066,9 +2066,11 @@ CCTV-15,http://[2409:8087:1a01:df::4033]:80/TVOD/88888888/224/3221226127/main.m3
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 水浒传,https://live.ottiptv.cc/yy/1353873252
 水浒传,http://live.ottiptv.cc/huya/26355860
+水浒传,https://www.goodiptv.club/yy/1353873252
 新白娘子传奇,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 新白娘子传奇,http://live.ottiptv.cc/yy/1354490667
+新白娘子传奇,https://www.goodiptv.club/yy/1354490667
 济公游记,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 封神榜,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 封神榜,https://live.iill.top/huya.php?id=23749096

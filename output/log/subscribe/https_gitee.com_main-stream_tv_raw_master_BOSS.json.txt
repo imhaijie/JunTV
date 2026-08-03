@@ -1,92 +1,92 @@
 央视频道,#genre#
 
 CCTV1综合,http://mg.cttv.vip/608807420
-CCTV1综合,http://120.202.73.48:8888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1综合,https://cdn.qd.je/163189.php?id=cctv1
 CCTV1综合,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv1&zy.m3u8
 CCTV1综合,http://173.208.212.130:8181/1080p/cctv1.m3u8
 
 CCTV2财经,http://mg.cttv.vip/631780532
-CCTV2财经,http://120.202.73.48:8888/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2财经,https://cdn.qd.je/163189.php?id=cctv2
 CCTV2财经,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv2&zy.m3u8
 CCTV2财经,http://173.208.212.130:8181/1080p/cctv2.m3u8
 
 CCTV3综艺,http://mg.cttv.vip/624878271
-CCTV3综艺,http://120.202.73.48:8888/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3综艺,https://cdn.qd.je/163189.php?id=cctv3
 CCTV3综艺,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv3&zy.m3u8
 CCTV3综艺,http://173.208.212.130:8181/1080p/cctv3.m3u8
 
 CCTV4中文国际,http://mg.cttv.vip/631780421
-CCTV4中文国际,http://120.202.73.48:8888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4中文国际,https://cdn.qd.je/163189.php?id=cctv4
 CCTV4中文国际,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv4&zy.m3u8
 CCTV4中文国际,http://173.208.212.130:8181/1080p/cctv4.m3u8
 
 CCTV5体育,http://mg.cttv.vip/641886683
-CCTV5体育,http://120.202.73.48:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5体育,https://cdn.qd.je/163189.php?id=cctv5
 CCTV5体育,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5&zy.m3u8
 CCTV5体育,http://218.13.148.152:5140/IPTV-央视/CCTV-5
 
 CCTV6电影,http://mg.cttv.vip/624878396
-CCTV6电影,http://120.202.73.48:8888/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6电影,https://cdn.qd.je/163189.php?id=cctv6
 CCTV6电影,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv6
 CCTV6电影,http://173.208.212.130:8181/1080p/cctv6.m3u8
 
 CCTV7军农,http://mg.cttv.vip/673168121
-CCTV7军农,http://120.202.73.48:8888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7军农,https://cdn.qd.je/163189.php?id=cctv7
 CCTV7军农,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv7&zy.m3u8
 CCTV7军农,http://173.208.212.130:8181/1080p/cctv7.m3u8
 
 CCTV8电视剧,http://mg.cttv.vip/624878356
-CCTV8电视剧,http://120.202.73.48:8888/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8电视剧,https://cdn.qd.je/163189.php?id=cctv8
 CCTV8电视剧,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv8&zy.m3u8
 CCTV8电视剧,http://173.208.212.130:8181/1080p/cctv8.m3u8
 
 CCTV9纪录,http://mg.cttv.vip/673168140
-CCTV9纪录,http://120.202.73.48:8888/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9纪录,https://cdn.qd.je/163189.php?id=cctv9
 CCTV9纪录,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv9&zy.m3u8
 CCTV9纪录,http://173.208.212.130:8181/1080p/cctv9.m3u8
 
 CCTV10科教,http://mg.cttv.vip/624878405
-CCTV10科教,http://120.202.73.48:8888/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10科教,https://cdn.qd.je/163189.php?id=cctv10
 CCTV10科教,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv10&zy.m3u8
 CCTV10科教,http://173.208.212.130:8181/1080p/cctv10.m3u8
 
 CCTV11戏曲,http://mg.cttv.vip/667987558
-CCTV11戏曲,http://120.202.73.48:8888/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11戏曲,https://cdn.qd.je/163189.php?id=cctv11
 CCTV11戏曲,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv11&zy.m3u8
 CCTV11戏曲,http://173.208.212.130:8181/1080p/cctv11.m3u8
 
 CCTV12,http://mg.cttv.vip/673168185
-CCTV12,http://120.202.73.48:8888/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12,https://cdn.qd.je/163189.php?id=cctv12
 CCTV12,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv12&zy.m3u8
 CCTV12,http://173.208.212.130:8181/1080p/cctv12.m3u8
 
 CCTV13新闻,http://mg.cttv.vip/608807423
-CCTV13新闻,http://120.202.73.48:8888/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13新闻,https://cdn.qd.je/163189.php?id=cctv13
 CCTV13新闻,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv13&zy.m3u8
 CCTV13新闻,http://173.208.212.130:8181/1080p/cctv13.m3u8
 
 CCTV14少儿,http://mg.cttv.vip/624878440
-CCTV14少儿,http://120.202.73.48:8888/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14少儿,https://cdn.qd.je/163189.php?id=cctv14
 CCTV14少儿,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv14
 CCTV14少儿,http://173.208.212.130:8181/1080p/cctv14.m3u8
 
 CCTV15音乐,http://mg.cttv.vip/673168223
-CCTV15音乐,http://120.202.73.48:8888/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15音乐,https://cdn.qd.je/163189.php?id=cctv15
 CCTV15音乐,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv15&zy.m3u8
 CCTV15音乐,http://173.208.212.130:8181/1080p/cctv15.m3u8
 
-CCTV16,http://rihou.cc:555/tv/[mg]CCTV-16
+CCTV16,https://cdn.qd.je/163189.php?id=cctv16
 CCTV16,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16,http://173.208.212.130:8181/1080p/cctv16.m3u8
 
 CCTV17,http://mg.cttv.vip/673168256
 CCTV17,http://107.150.60.122/live/cctv17hd.m3u8
-CCTV17,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv17&zy.m3u8
+CCTV17,https://cdn.qd.je/163189.php?id=cctv17
 CCTV17,http://173.208.212.130:8181/1080p/cctv17.m3u8
 
 CCTV5+,http://mg.cttv.vip/641886773
-CCTV5+,http://111.4.59.41:60901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5+,https://cdn.qd.je/163189.php?id=cctv5p
 CCTV5+,http://47.100.80.251:50001/641886773
 CCTV5+,http://173.208.212.130:8181/1080p/cctv5p.m3u8
 
@@ -368,21 +368,21 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 汕头3电信,
 
 
-揭阳综合高清,http://lsa.familyds.com:8188/udp/239.77.0.229:5146
-揭阳生活高清,http://lsa.familyds.com:8188/udp/239.77.0.251:5146
-汕尾综合高清,http://lsa.familyds.com:8188/udp/239.77.0.25:5146
-汕尾生活高清,http://lsa.familyds.com:8188/udp/239.77.0.187:5146
-潮州综合高清,http://lsa.familyds.com:8188/udp/239.253.43.70:5146
-潮州民生高清,http://lsa.familyds.com:8188/udp/239.253.43.75:5146
+揭阳综合高清,http://home.szjim.top:4000/udp/239.77.0.229:5146
+揭阳生活高清,http://home.szjim.top:4000/udp/239.77.0.251:5146
+汕尾综合高清,http://home.szjim.top:4000/udp/239.77.0.25:5146
+汕尾生活高清,http://home.szjim.top:4000/udp/239.77.0.187:5146
+潮州综合高清,http://home.szjim.top:4000/udp/239.253.43.70:5146
+潮州民生高清,http://home.szjim.top:4000/udp/239.253.43.75:5146
 
 
 凤凰中文,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzw
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
-凤凰中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 
 凤凰资讯,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhzx
 凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
-凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701phk72.m3u8
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 
@@ -431,10 +431,10 @@ TVB星河台,http://rihou.cc:555/tv/[Pd]无线星河
 广东频道,#genre#
 
 广东珠江,http://115.190.252.60:26759/gd2/gd.php?id=gd-zj-1
-广东珠江,http://lsa.familyds.com:8188/rtp/239.77.0.1:5146
+广东珠江,http://home.szjim.top:4000/rtp/239.77.0.1:5146
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 
-广东体育,http://lsa.familyds.com:8188/udp/239.77.0.112:5146
+广东体育,http://home.szjim.top:4000/udp/239.77.0.112:5146
 广东体育,http://rihou.cc:555/tv/[At|]广东体育
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,
@@ -442,7 +442,7 @@ TVB星河台,http://rihou.cc:555/tv/[Pd]无线星河
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,http://115.29.208.41:34567/gd.php?id=gzzh
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-广州影视,http://lsa.familyds.com:8188/udp/239.253.43.73:5146
+广州影视,http://home.szjim.top:4000/udp/239.253.43.73:5146
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
@@ -452,12 +452,12 @@ TVB星河台,http://rihou.cc:555/tv/[Pd]无线星河
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 南国都市,
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-佛山影视,http://lsa.familyds.com:8188/udp/239.253.43.56:5146
+佛山影视,http://home.szjim.top:4000/udp/239.253.43.56:5146
 佛山影视,http://8.137.59.151:3000/guangdong/foshan.php?id=fsys
 番禺电视,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 东莞综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 佛山综合,
-佛山公共,http://lsa.familyds.com:8188/udp/239.253.43.53:5146
-佛山顺德,http://lsa.familyds.com:8188/udp/239.253.43.55:5146
+佛山公共,http://home.szjim.top:4000/udp/239.253.43.53:5146
+佛山顺德,http://home.szjim.top:4000/udp/239.253.43.55:5146
 寰宇新闻,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
