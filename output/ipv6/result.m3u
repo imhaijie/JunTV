@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/imhaijie/JunTV/refs/heads/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🕘️更新时间",2026-08-17 10:21:38
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🕘️更新时间",2026-08-24 10:18:45
 http://183.10.180.133:212/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🍄┃广东频道",广州综合
 http://183.10.180.133:212/tsfile/live/1035_1.m3u8
@@ -1197,6 +1197,8 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 https://hls-gateway.vpstv.net/streams/709507.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN.png" group-title="🚂┃湾区频道",tvN
 https://hls-gateway.vpstv.net/streams/477799.m3u8
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvN.png" group-title="🚂┃湾区频道",tvN
+https://ktpremium.world/live/LT1976F/A9177/1013757.ts
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/PopC.png" group-title="🚂┃湾区频道",PopC
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/PopC.png" group-title="🚂┃湾区频道",PopC
@@ -1407,6 +1409,8 @@ https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 http://free.cnlive.club/channel/642f20a/index.m3u8
 #EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立台湾.png" group-title="🚂┃湾区频道",三立台湾
 https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
+#EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立台湾.png" group-title="🚂┃湾区频道",三立台湾
+https://ktpremium.world/live/LT1976F/A9177/1003298.ts
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻.png" group-title="🚂┃湾区频道",三立新闻
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻.png" group-title="🚂┃湾区频道",三立新闻
@@ -1425,6 +1429,8 @@ https://hls-gateway.vpstv.net/streams/476987.m3u8
 http://free.cnlive.club/channel/n31b0a4/index.m3u8
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森综合.png" group-title="🚂┃湾区频道",东森综合
 https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
+#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森综合.png" group-title="🚂┃湾区频道",东森综合
+https://ktpremium.world/live/LT1976F/A9177/1003297.ts
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" group-title="🚂┃湾区频道",东森超视
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" group-title="🚂┃湾区频道",东森超视
@@ -1787,6 +1793,8 @@ http://tl.061833.xyz/tl/lovenaturehd
 https://4gtv.158.qzz.io/163189/0ca25d44-a9ea-4d65-b4fb-74fb1a66b5d4/
 #EXTINF:-1 tvg-id="TVBS News 新闻台" tvg-name="TVBS News 新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS News 新闻台.png" group-title="🅱┃台湾频道",TVBS News 新闻台
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+#EXTINF:-1 tvg-id="TVBS News 新闻台" tvg-name="TVBS News 新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS News 新闻台.png" group-title="🅱┃台湾频道",TVBS News 新闻台
+https://ktpremium.world/live/LT1976F/A9177/870536.ts
 #EXTINF:-1 tvg-id="TVBS 欢乐台" tvg-name="TVBS 欢乐台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS 欢乐台.png" group-title="🅱┃台湾频道",TVBS 欢乐台
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="TVBS 欢乐台" tvg-name="TVBS 欢乐台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS 欢乐台.png" group-title="🅱┃台湾频道",TVBS 欢乐台
@@ -1803,6 +1811,8 @@ https://smart.946985.filegear-sg.me/smart.php?id=tvbs
 http://xsmt.ccwu.cc/xsmt/smt.php?id=735
 #EXTINF:-1 tvg-id="中天新闻 HD" tvg-name="中天新闻 HD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻 HD.png" group-title="🅱┃台湾频道",中天新闻 HD
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+#EXTINF:-1 tvg-id="中天新闻 HD" tvg-name="中天新闻 HD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻 HD.png" group-title="🅱┃台湾频道",中天新闻 HD
+https://ktpremium.world/live/LT1976F/A9177/870539.ts
 #EXTINF:-1 tvg-id="中天娱乐 CTI Entertaiment" tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天娱乐 CTI Entertaiment.png" group-title="🅱┃台湾频道",中天娱乐 CTI Entertaiment
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="中天娱乐 CTI Entertaiment" tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天娱乐 CTI Entertaiment.png" group-title="🅱┃台湾频道",中天娱乐 CTI Entertaiment
@@ -1817,6 +1827,8 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv109&token=xiatianshigou
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天亚洲台.png" group-title="🅱┃台湾频道",中天亚洲台
 http://xsmt.ccwu.cc/xsmt/smt.php?id=1967
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天亚洲台.png" group-title="🅱┃台湾频道",中天亚洲台
+https://ktpremium.world/live/LT1976F/A9177/877046.ts
 #EXTINF:-1 tvg-id="台视 TTV HD" tvg-name="台视 TTV HD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视 TTV HD.png" group-title="🅱┃台湾频道",台视 TTV HD
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="台视 TTV HD" tvg-name="台视 TTV HD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视 TTV HD.png" group-title="🅱┃台湾频道",台视 TTV HD
@@ -2027,6 +2039,8 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=906
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="靖天国际台" tvg-name="靖天国际台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天国际台.png" group-title="🅱┃台湾频道",靖天国际台
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2018
+#EXTINF:-1 tvg-id="靖天国际台" tvg-name="靖天国际台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天国际台.png" group-title="🅱┃台湾频道",靖天国际台
+https://ktpremium.world/live/LT1976F/A9177/515025.ts
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/年代新闻.png" group-title="🅱┃台湾频道",年代新闻
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/年代新闻.png" group-title="🅱┃台湾频道",年代新闻
@@ -2041,6 +2055,8 @@ http://free.cnlive.club/channel/49184630/index.m3u8
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来日本台.png" group-title="🅱┃台湾频道",纬来日本台
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2048
+#EXTINF:-1 tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来日本台.png" group-title="🅱┃台湾频道",纬来日本台
+https://ktpremium.world/live/LT1976F/A9177/870550.ts
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影台.png" group-title="🅱┃台湾频道",纬来电影台
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影台.png" group-title="🅱┃台湾频道",纬来电影台
@@ -2153,6 +2169,8 @@ http://xsmt.ccwu.cc/xsmt/smt.php?id=2024
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="EYETV 旅游" tvg-name="EYETV 旅游" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EYETV 旅游.png" group-title="🅱┃台湾频道",EYETV 旅游
 http://xsmt.ccwu.cc/xsmt/smt.php?id=2100
+#EXTINF:-1 tvg-id="EYETV 旅游" tvg-name="EYETV 旅游" tvg-logo="https://www.xn--rgv465a.top/tvlogo/EYETV 旅游.png" group-title="🅱┃台湾频道",EYETV 旅游
+https://ktpremium.world/live/LT1976F/A9177/1003303.ts
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天卡通台.png" group-title="🅱┃台湾频道",靖天卡通台
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天卡通台.png" group-title="🅱┃台湾频道",靖天卡通台

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-17 10:21:38,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
+2026-08-24 10:18:45,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
 
 🍄┃广东频道,#genre#
 广州综合,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
@@ -607,6 +607,7 @@ tvbs,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 tvN,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 tvN,https://hls-gateway.vpstv.net/streams/709507.m3u8
 tvN,https://hls-gateway.vpstv.net/streams/477799.m3u8
+tvN,https://ktpremium.world/live/LT1976F/A9177/1013757.ts
 PopC,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 PopC,http://tl.061833.xyz/tl/popc
 PopC,https://smt.pixman.us.ci/proxy/66d3b7594776ed7e.m3u8
@@ -712,6 +713,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立台湾,http://free.cnlive.club/channel/642f20a/index.m3u8
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
+三立台湾,https://ktpremium.world/live/LT1976F/A9177/1003298.ts
 三立新闻,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
@@ -721,6 +723,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 东森综合,https://hls-gateway.vpstv.net/streams/476987.m3u8
 东森综合,http://free.cnlive.club/channel/n31b0a4/index.m3u8
 东森综合,https://cdn.19891230.eu.org/api/ET-Variety-Channel/index.m3u8
+东森综合,https://ktpremium.world/live/LT1976F/A9177/1003297.ts
 东森超视,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
@@ -904,6 +907,7 @@ Love Nature,https://4gtv.158.qzz.io/163189/0ca25d44-a9ea-4d65-b4fb-74fb1a66b5d4/
 
 🅱┃台湾频道,#genre#
 TVBS News 新闻台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+TVBS News 新闻台,https://ktpremium.world/live/LT1976F/A9177/870536.ts
 TVBS 欢乐台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 TVBS HD,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
@@ -912,6 +916,7 @@ TVBS HD,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 TVBS HD,https://smart.946985.filegear-sg.me/smart.php?id=tvbs
 TVBS HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=735
 中天新闻 HD,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+中天新闻 HD,https://ktpremium.world/live/LT1976F/A9177/870539.ts
 中天娱乐 CTI Entertaiment,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 中天娱乐 CTI Entertaiment,http://xsmt.ccwu.cc/xsmt/smt.php?id=529
 中天综合 CTI Metro,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
@@ -919,6 +924,7 @@ TVBS HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=735
 中天亚洲台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 中天亚洲台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv109&token=xiatianshigou
 中天亚洲台,http://xsmt.ccwu.cc/xsmt/smt.php?id=1967
+中天亚洲台,https://ktpremium.world/live/LT1976F/A9177/877046.ts
 台视 TTV HD,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 台视 TTV HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=744
 台视新闻台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
@@ -1024,6 +1030,7 @@ AXN Taiwan,http://free.cnlive.club/channel/n4e27c899/index.m3u8
 AXN Taiwan,http://xsmt.ccwu.cc/xsmt/smt.php?id=906
 靖天国际台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 靖天国际台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2018
+靖天国际台,https://ktpremium.world/live/LT1976F/A9177/515025.ts
 年代新闻,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 年代新闻,https://smart.dxjc.pp.ua/smart.php?id=niandainews_twn&token=tmxk
 年代新闻,https://live.catvod.com/live.php?id=niandainews_twn
@@ -1031,6 +1038,7 @@ AXN Taiwan,http://xsmt.ccwu.cc/xsmt/smt.php?id=906
 年代新闻,http://free.cnlive.club/channel/49184630/index.m3u8
 纬来日本台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 纬来日本台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2048
+纬来日本台,https://ktpremium.world/live/LT1976F/A9177/870550.ts
 纬来电影台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 纬来电影台,https://smt.1678520.xyz/163189/145487bee05856fc
 纬来电影台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2049
@@ -1087,6 +1095,7 @@ MTV Live,http://free.cnlive.club/channel/731620b3/index.m3u8
 龙详时代,http://xsmt.ccwu.cc/xsmt/smt.php?id=2024
 EYETV 旅游,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 EYETV 旅游,http://xsmt.ccwu.cc/xsmt/smt.php?id=2100
+EYETV 旅游,https://ktpremium.world/live/LT1976F/A9177/1003303.ts
 靖天卡通台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 靖天卡通台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv044&token=xiatianshigou
 靖天卡通台,http://xsmt.ccwu.cc/xsmt/smt.php?id=1585
