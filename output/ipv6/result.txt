@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-07 12:35:19,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
+2026-09-14 13:29:57,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
 
 🍄┃广东频道,#genre#
 广州综合,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
@@ -909,6 +909,7 @@ Love Nature,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 Love Nature,https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
 Love Nature,http://tl.061833.xyz/tl/lovenaturehd
 Love Nature,https://4gtv.158.qzz.io/163189/0ca25d44-a9ea-4d65-b4fb-74fb1a66b5d4/
+Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 
 🅱┃台湾频道,#genre#
 TVBS News 新闻台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
@@ -1254,6 +1255,7 @@ NBTV-4,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 浙江教科影视,http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221227851/10000100000000060000000000304818_0.smil
 浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 浙江教科影视,http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
+浙江教科影视,https://www.cztv.com/liveTV/104
 浙江公共新闻,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.ctv

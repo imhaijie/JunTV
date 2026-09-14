@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/imhaijie/JunTV/refs/heads/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🕘️更新时间",2026-09-07 12:35:19
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🕘️更新时间",2026-09-14 13:29:57
 http://183.10.180.133:212/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🍄┃广东频道",广州综合
 http://183.10.180.133:212/tsfile/live/1035_1.m3u8
@@ -1801,6 +1801,8 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
 http://tl.061833.xyz/tl/lovenaturehd
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Love Nature.png" group-title="🚂┃湾区频道",Love Nature
 https://4gtv.158.qzz.io/163189/0ca25d44-a9ea-4d65-b4fb-74fb1a66b5d4/
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Love Nature.png" group-title="🚂┃湾区频道",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBS News 新闻台" tvg-name="TVBS News 新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS News 新闻台.png" group-title="🅱┃台湾频道",TVBS News 新闻台
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="TVBS News 新闻台" tvg-name="TVBS News 新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS News 新闻台.png" group-title="🅱┃台湾频道",TVBS News 新闻台
@@ -2483,6 +2485,8 @@ http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221227851/10000
 http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 #EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江教科影视.png" group-title="📚┃浙江频道",浙江教科影视
 http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江教科影视.png" group-title="📚┃浙江频道",浙江教科影视
+https://www.cztv.com/liveTV/104
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江公共新闻.png" group-title="📚┃浙江频道",浙江公共新闻
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江公共新闻.png" group-title="📚┃浙江频道",浙江公共新闻
