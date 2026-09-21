@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-14 13:29:57,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
+2026-09-21 13:03:17,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
 
 🍄┃广东频道,#genre#
 广州综合,http://183.10.180.133:212/tsfile/live/1035_1.m3u8
@@ -232,15 +232,21 @@ CGT法语咪咕,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 家庭影院咪咕,http://z.b.bkpcp.top/m.php?id=jtyy
 动作电影咪咕,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 东方卫视咪咕,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+东方卫视咪咕,http://go.bkpcp.top/mg/dfws
 江苏卫视咪咕,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 江苏卫视咪咕,http://z.b.bkpcp.top/m.php?id=jsws
+江苏卫视咪咕,http://go.bkpcp.top/mg/jsws
 陕西卫视咪咕,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 陕西卫视咪咕,http://z.b.bkpcp.top/m.php?id=sxws
+陕西卫视咪咕,http://go.bkpcp.top/mg/sxws
 湖北卫视咪咕,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 湖北卫视咪咕,http://z.b.bkpcp.top/m.php?id=hubws
+湖北卫视咪咕,http://go.bkpcp.top/mg/hubws
 江西卫视咪咕,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 江西卫视咪咕,http://z.b.bkpcp.top/m.php?id=jxws
+江西卫视咪咕,http://go.bkpcp.top/mg/jxws
 海南卫视咪咕,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+海南卫视咪咕,http://go.bkpcp.top/mg/hinws
 军事大片咪咕,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 热剧联播咪咕,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 新片映厅咪咕,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
@@ -1501,7 +1507,9 @@ BTV纪实,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 📚┃上海频道,#genre#
 七彩戏剧,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj
+七彩戏剧,http://t.061899.xyz/tl/tl.php?id=qcxj
 上海外语,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+上海外语,http://t.061899.xyz/tl/tl.php?id=shics
 上海教育,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 上海新闻综合,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 上海新闻综合,https://migu.188766.xyz/?migutoken=779bd2c7e2b23a37be54ec1b50771d47&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy

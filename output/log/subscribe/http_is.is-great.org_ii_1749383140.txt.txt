@@ -1,8 +1,7 @@
+
 404 Not Found
-The page you were looking for could not be found!
 
-Knowledge Base: https://forum.infinityfree.com/docs?topic=49355
-Forum: https://forum.infinityfree.com
+404 Not Found
+nginx/1.28.0
 
-Powered by InfinityFree
-https://www.infinityfree.com
+
