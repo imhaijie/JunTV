@@ -1,4 +1,4 @@
-2026/09/19 11:52更新,#genre#
+2026/09/27 12:28更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
@@ -23,8 +23,7 @@ TVBPlus,http://r.jdshipin.com/ndGgS
 
 港澳C组,#genre#
 TVB新闻,https://cdn6.cc.cd/163189/wxxw
-TVB星河,https://cdn6.cc.cd/163189/tvbxh
-TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
+TVB星河粤,https://cdn6.cc.cd/163189/tvbxh
 TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 TVB1,https://cdn6.cc.cd/163189/tvb1
 TVBJ1,https://cdn6.cc.cd/163189/j1
@@ -32,8 +31,8 @@ TVBJ1,https://cdn6.cc.cd/163189/j1
 凤凰香港,https://cdn6.cc.cd/163189/fhhk
 凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰资讯,https://cdn6.cc.cd/163189/fhzx
-华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
-华丽翡翠台,https://cdn6.cc.cd/163189/jade
+华丽翡翠台1,https://cdn6.cc.cd/163189/hlfct
+华丽翡翠台硬字幕,https://cdn6.cc.cd/163189/jade
 无线新闻台,https://cdn6.cc.cd/163189/wxxwt
 
 港澳D组,#genre#
@@ -47,20 +46,6 @@ TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 
 港澳E组,#genre#
-TVBPlus,http://74.91.26.218:82/live/j2.m3u8
-公视,http://74.91.26.218:82/live/pts.m3u8
-华视,http://74.91.26.218:82/live/cts.m3u8
-华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
-民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
-民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
-民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
-台视,http://74.91.26.218:82/live/ttv.m3u8
-台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-中视,http://74.91.26.218:82/live/ctv.m3u8
-
-港澳F组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
