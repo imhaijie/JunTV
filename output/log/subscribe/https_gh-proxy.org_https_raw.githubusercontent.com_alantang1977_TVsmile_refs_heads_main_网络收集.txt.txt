@@ -1,4 +1,4 @@
-2026/10/17 11:39更新,#genre#
+2026/10/25 11:53更新,#genre#
 享受当下,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 港澳A组,#genre#
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
@@ -46,23 +46,6 @@ TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 
 港澳E组,#genre#
-TVB-翡翠新加坡,http://zby.lskk.top/cdnlive.php?mode=play&id=66521bb3ce37a0c095bfeb825326b3e7&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB-翡翠越南,http://zby.lskk.top/cdnlive.php?mode=play&id=81650d4099ca66f4a2881e6bfe2a8f21&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB-话当年,http://zby.lskk.top/cdnlive.php?mode=play&id=334ff1e9625df561813dc0a3e67ddedb&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB-无线新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=202dd6cb2fa10b757f27371ed2308931&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB-无线新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=38f4e6844d506788074317f9c86ab525&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB-星河粤,http://zby.lskk.top/cdnlive.php?mode=play&id=e4e7401dba979b89d746e5317393c046&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB-亚洲剧,http://zby.lskk.top/cdnlive.php?mode=play&id=db79880374fcfcc4bd727642413a6443&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB-娱乐新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=731b14933ec05b7bed938ab0e2489f30&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB-EYT,http://zby.lskk.top/cdnlive.php?mode=play&id=461ac1c2e255cdd0c66901d5cd3017b2&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVB_Plus,http://zby.lskk.top/cdnlive.php?mode=play&id=86ef0c139b7b3b2a8063f931d48586ba&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-凤凰中文,http://zby.lskk.top/cdnlive.php?mode=play&id=20d2d96308e5b86aa632cdb8113b2313&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-美亚电影粤,http://zby.lskk.top/cdnlive.php?mode=play&id=1acd7da61bf72c10efd6d4fe9d44e494&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-myTVSUPERTVB-千禧经典,http://zby.lskk.top/cdnlive.php?mode=play&id=293ac51056235368be698c698197b3e9&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-天映经典,http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-无线18台,http://zby.lskk.top/cdnlive.php?mode=play&id=75438d9a1a0cf5c132eff84aa5beaf85&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-
-港澳F组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
@@ -77,12 +60,22 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 
-港澳G组,#genre#
+港澳F组,#genre#
 爱星影视的直播间,http://footyun.top:35455/douyu/9476806
+芳芳说故事每日更新,http://footyun.top:35455/douyu/9401905
 顺风为主其他情喜影剧集锦为辅随机连播,http://footyun.top:35455/douyu/6369954
 易中天品三国,http://footyun.top:35455/yy/1354931498
 易中天品三国完整版,http://footyun.top:35455/yy/1461244449
 游戏剧情系列/恐怖/主机/通关,http://footyun.top:35455/douyu/10401475
 整活视频，开心就好,http://footyun.top:35455/douyu/10319056
 中华小当家动漫,http://footyun.top:35455/huya/11342413
+
+港澳G组,#genre#
+成式同学会NTR-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/06/fe501850/index.m3u8
+给我看私处我就原谅你-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/03/31/9ea95262/index.m3u8
+喝酒后成为接吻恶魔-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/09/16/a7633960/index.m3u8
+老婆被粉丝成便器-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/07/25/c1361322/index.m3u8
+设定脚本一切都没有-七沢美亚,https://t33.cdn2020.com/video/m3u8/2024/10/09/698c671d/index.m3u8
+兔年要看兔郎-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/ef3a6cad/index.m3u8
+小恶魔的密著-七泽美亚,https://t33.cdn2020.com/video/m3u8/2024/06/04/8641f821/index.m3u8
 
