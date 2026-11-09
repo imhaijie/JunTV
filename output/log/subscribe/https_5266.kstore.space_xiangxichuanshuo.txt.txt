@@ -6,93 +6,93 @@
 æ¹åå«è§4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
 æµæ±å«è§4k,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-CCTV4K,https://5266.kstore.space/k-web/ku9/js/cctvnews.js?id=cctv4k
+CCTV4K,https://5266.kstore.space/k-web/ku9/js/cctvnews5.js?id=cctv4k
 
-CCTV-8K,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600156816
+CCTV-8K,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600156816
 
 ð¨ð³å¤®è§ç¬è«,#genre#
 
-CCTV1,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001859$å¤®è§é¢
+CCTV1,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001859$å¤®è§é¢
 
 
-CCTV2,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001800
-CCTV3,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001801
+CCTV2,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001800
+CCTV3,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001801
 
 
-CCTV4,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001814
-CCTV4K,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002264
+CCTV4,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001814
+CCTV4K,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002264
 
 
-CCTV5,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001818
-CCTV5,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001817
-CCTV6,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600108442
-CCTV7,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600004092
-CCTV8,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001803
-CCTV9,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600004078
-CCTV10,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001805
-CCTV11,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001806
-CCTV12,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001807
-CCTV13,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001811
-CCTV14,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=60000180??
-CCTV15,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001815
-CCTV16,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600098637
-CCTV17,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600001810
-CGTN,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600014550
-CGTNçºªå½,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600084781
-CGTNä¿è¯­,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600084758
-CGTNæ³è¯­,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600084704
-CGTNè¥¿è¯­,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600084744
-CGTNé¿è¯­,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600084782
+CCTV5,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001818
+CCTV5,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001817
+CCTV6,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600108442
+CCTV7,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600004092
+CCTV8,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001803
+CCTV9,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600004078
+CCTV10,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001805
+CCTV11,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001806
+CCTV12,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001807
+CCTV13,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001811
+CCTV14,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=60000180??
+CCTV15,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001815
+CCTV16,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600098637
+CCTV17,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600001810
+CGTN,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600014550
+CGTNçºªå½,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600084781
+CGTNä¿è¯­,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600084758
+CGTNæ³è¯­,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600084704
+CGTNè¥¿è¯­,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600084744
+CGTNé¿è¯­,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600084782
 
-CGTN,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://www.cgtn.com/tv
-CGTN,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://www.yangshipin.cn/tv/home?pid=600014550
-CGTN EspaÃ±ol,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://espanol.cgtn.com/en-directo
-CGTN EspaÃ±ol,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://www.yangshipin.cn/tv/home?pid=600084744
-CGTN FranÃ§ais,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://francais.cgtn.com/channel
-CGTN FranÃ§ais,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://www.yangshipin.cn/tv/home?pid=600084704
-CGTN Ø§ÙØ¹Ø±Ø¨ÙØ©,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://arabic.cgtn.com/channel
-CGTN Ø§ÙØ¹Ø±Ø¨ÙØ©,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://www.yangshipin.cn/tv/home?pid=600084782
-CGTN Ð ÑÑÑÐºÐ¸Ð¹,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://russian.cgtn.com/channel
-CGTN Ð ÑÑÑÐºÐ¸Ð¹,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://www.yangshipin.cn/tv/home?pid=600084758
-CGTN Documentary,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://www.cgtn.com/channel/documentary
-CGTN Documentary,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://www.yangshipin.cn/tv/home?pid=600084781
-CCTV4æ¬§æ´²,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
-CCTV4ç¾æ´²,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://tv.cctv.com/live/cctvamerica/
+CGTN,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://www.cgtn.com/tv
+CGTN,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://www.yangshipin.cn/tv/home?pid=600014550
+CGTN EspaÃ±ol,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://espanol.cgtn.com/en-directo
+CGTN EspaÃ±ol,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://www.yangshipin.cn/tv/home?pid=600084744
+CGTN FranÃ§ais,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://francais.cgtn.com/channel
+CGTN FranÃ§ais,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://www.yangshipin.cn/tv/home?pid=600084704
+CGTN Ø§ÙØ¹Ø±Ø¨ÙØ©,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://arabic.cgtn.com/channel
+CGTN Ø§ÙØ¹Ø±Ø¨ÙØ©,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://www.yangshipin.cn/tv/home?pid=600084782
+CGTN Ð ÑÑÑÐºÐ¸Ð¹,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://russian.cgtn.com/channel
+CGTN Ð ÑÑÑÐºÐ¸Ð¹,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://www.yangshipin.cn/tv/home?pid=600084758
+CGTN Documentary,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://www.cgtn.com/channel/documentary
+CGTN Documentary,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://www.yangshipin.cn/tv/home?pid=600084781
+CCTV4æ¬§æ´²,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
+CCTV4ç¾æ´²,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://tv.cctv.com/live/cctvamerica/
 
-é£äºå§åº,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600099658
-ç¬¬ä¸å§åº,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600099655
-ææ§å§åº,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600099620
-åäº¬å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002309
-æ±èå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002521
-ä¸æ¹å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002483
-æµæ±å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002520
-æ¹åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002475
-æ¹åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002508
-å¹¿ä¸å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002485
-å¹¿è¥¿å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002509
-é»é¾æ±å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002498
-æµ·åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002506
-éåºå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002531
-æ·±å³å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002481
-åå·å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002516
-æ²³åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002525
-ä¸åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002484
-è´µå·å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002490
-æ±è¥¿å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002503
-è¾½å®å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002505
-å®å¾½å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002532
-æ²³åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002493
-å±±ä¸å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600002513
-å¤©æ´¥å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600152137
-åæå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190405
-éè¥¿å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190400
-å®å¤å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190737
-åèå¤å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190401
-äºåå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190402
-å±±è¥¿å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190407
-éæµ·å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190406
-è¥¿èå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190403
-çèå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye.js?id=https://yangshipin.cn/tv/home?pid=600190408
+é£äºå§åº,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600099658
+ç¬¬ä¸å§åº,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600099655
+ææ§å§åº,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600099620
+åäº¬å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002309
+æ±èå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002521
+ä¸æ¹å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002483
+æµæ±å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002520
+æ¹åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002475
+æ¹åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002508
+å¹¿ä¸å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002485
+å¹¿è¥¿å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002509
+é»é¾æ±å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002498
+æµ·åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002506
+éåºå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002531
+æ·±å³å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002481
+åå·å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002516
+æ²³åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002525
+ä¸åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002484
+è´µå·å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002490
+æ±è¥¿å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002503
+è¾½å®å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002505
+å®å¾½å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002532
+æ²³åå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002493
+å±±ä¸å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600002513
+å¤©æ´¥å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600152137
+åæå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600190405
+éè¥¿å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600190400
+å®å¤å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600190737
+åèå¤å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600190401
+äºåå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600190402
+å±±è¥¿å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600190407
+éæµ·å«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600190406
+è¥¿èå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600190403
+çèå«è§,https://5266.kstore.space/k-web/ku9/js/ku9wye5.js?id=https://yangshipin.cn/tv/home?pid=600190408
 
 ð¨ð³åªåè§é¢,#genre#,JS=https://5266.kstore.space/cjmg.js
 
@@ -207,17 +207,17 @@ CETV4,http://A/ku9/js/åªåè¶ç®ç.js?id=923287339
 
 
 
-ð¨ð³å¤®è§æå±,#genre#,JS=https://5266.kstore.space/cctvnews.js
-CCTV1ç»¼å,http://A/ku9/js/cctvnews.js?id=cctv1
-CCTV2è´¢ç»,http://A/ku9/js/cctvnews.js?id=cctv2
-CCTV4å½é,http://A/ku9/js/cctvnews.js?id=cctv4
-CCTV13æ°é»,http://A/ku9/js/cctvnews.js?id=cctv13
-CCTV9çºªå½,http://A/ku9/js/cctvnews.js?id=cctv9
-CCTV10ç§æ,http://A/ku9/js/cctvnews.js?id=cctv10
-CCTV7å½é²åäº,http://A/ku9/js/cctvnews.js?id=cctv7
-CCTV12æ³å¶,http://A/ku9/js/cctvnews.js?id=cctv12
-CCTV17åä¸,http://A/ku9/js/cctvnews.js?id=cctv17
-CCTV4K,http://A/ku9/js/cctvnews.js?id=cctv4k
+ð¨ð³å¤®è§æå±,#genre#,JS=https://5266.kstore.space/cctvnews5.js
+CCTV1ç»¼å,http://A/ku9/js/cctvnews5.js?id=cctv1
+CCTV2è´¢ç»,http://A/ku9/js/cctvnews5.js?id=cctv2
+CCTV4å½é,http://A/ku9/js/cctvnews5.js?id=cctv4
+CCTV13æ°é»,http://A/ku9/js/cctvnews5.js?id=cctv13
+CCTV9çºªå½,http://A/ku9/js/cctvnews5.js?id=cctv9
+CCTV10ç§æ,http://A/ku9/js/cctvnews5.js?id=cctv10
+CCTV7å½é²åäº,http://A/ku9/js/cctvnews5.js?id=cctv7
+CCTV12æ³å¶,http://A/ku9/js/cctvnews5.js?id=cctv12
+CCTV17åä¸,http://A/ku9/js/cctvnews5.js?id=cctv17
+CCTV4K,http://A/ku9/js/cctvnews5.js?id=cctv4k
 
 
 
@@ -1629,54 +1629,109 @@ ayqtv,http://103.236.69.25:2380/nm.chinamobile.com/PLTV/88888890/224/3221225841/
 éµé³ç»¼å,https://5266.kstore.space/k-web/ku9/js/hunansy.js?id=xwzh&t=æ¹è¥¿å«è§åºå
 éµé³å¬å±,https://5266.kstore.space/k-web/ku9/js/hunansy.js?id=ggpd&t=æ¹è¥¿å«è§åºå
 
+ð¨ð³å¹¿ä¸é¢é,#genre#
 
+å¹¿ä¸ç æ±,http://xiangxiws.vip:64100/ygtv.php?play=1183
+å¹¿ä¸æ°é»,http://xiangxiws.vip:64100/ygtv.php?play=1186
+å¹¿ä¸å«è§,http://xiangxiws.vip:64100/ygtv.php?play=1182
+å¹¿ä¸å½±è§,http://xiangxiws.vip:64100/ygtv.php?play=1199
+å¹¿ä¸æ°ç,http://xiangxiws.vip:64100/ygtv.php?play=1185
+å¹¿ä¸å«è§4K,http://xiangxiws.vip:64100/ygtv.php?play=2567
+å¹¿ä¸4Kè¶é«æ¸,http://xiangxiws.vip:64100/ygtv.php?play=1198
+å¹¿ä¸ä½è²,http://xiangxiws.vip:64100/ygtv.php?play=1184
+åä½³å¡é,http://xiangxiws.vip:64100/ygtv.php?play=1187
+å¤§æ¹¾åºå«è§ï¼æµ·å¤çï¼,http://xiangxiws.vip:64100/ygtv.php?play=1191
+å¹¿ä¸å°å¿,http://xiangxiws.vip:64100/ygtv.php?play=1200
+å¹¿ä¸ç§»å¨,http://xiangxiws.vip:64100/ygtv.php?play=2463
+å²­åææ²,http://xiangxiws.vip:64100/ygtv.php?play=2510
+æ·±å³å«è§,http://xiangxiws.vip:64100/ygtv.php?play=1206
+ä¸èæ°é»ç»¼å,http://xiangxiws.vip:64100/ygtv.php?play=2395
+é³æ±ç»¼å,http://xiangxiws.vip:64100/ygtv.php?play=2505
+åå·ç»¼å,http://xiangxiws.vip:64100/ygtv.php?play=2440
+è±å¾·æ°é»ç»¼åé¢é,http://xiangxiws.vip:64100/ygtv.php?play=2447
+æ®å®å°,http://xiangxiws.vip:64100/ygtv.php?play=2450
+å¼å¹³ç»¼å,http://xiangxiws.vip:64100/ygtv.php?play=2405
+ä¿¡å®ç»¼å,http://xiangxiws.vip:64100/ygtv.php?play=2471
+æ½®å®ç»¼å,http://xiangxiws.vip:64100/ygtv.php?play=2523
+é³æ¥ç»¼å,http://xiangxiws.vip:64100/ygtv.php?play=2458
+éæ²³å¿å¹¿æ­çµè§å°,http://xiangxiws.vip:64100/ygtv.php?play=2465
+æ°ä¼ç»¼å,http://xiangxiws.vip:64100/ygtv.php?play=2490
+æ±å°¾æ°é»ç»¼å,http://xiangxiws.vip:64100/ygtv.php?play=1261
+äºæµ®ç»¼å,http://xiangxiws.vip:64100/ygtv.php?play=2389
+æ¢å·ç»¼å,http://xiangxiws.vip:64100/ygtv.php?play=2401
 
-
-ð¨ð³æ²³åé¢é,#genre#
-
-æ²³åå«è§,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnws
-æ²³åé½å¸,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnds
-æ²³åæ°ç,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnms
-æ²³åæ³æ²»,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hmfz
-æ²³åçµè§å§,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hndsj
-æ²³åæ°é»,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnxw
-æ¬¢è¾è´­ç©,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=htgw
-æ²³åå¬å±,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hngg
-æ²³åä¹¡æ,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnxc
-æ²³åæ¢¨å­,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnly
-æç©å®åº,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=wwbk
-æ­¦æ¯ä¸ç,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=wspd
-æ²³åæ²èº,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnqy
-ç§»å¨ææ²,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=ydxj
-è±¡è§ç,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=xsj
-å½å­¦é¢é,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=gxpd
-éå·æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=zz1
-å¼å°æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=kf1
-æ´é³æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=ly1
-å¹³é¡¶å±±æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=pds1
-å®é³æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=ay1
-é¹¤å£æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hb1
-æ°ä¹¡æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=xx1
-ç¦ä½æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=jz1
-æ¿®é³æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=py1
-è®¸ææ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=xc1
-æ¼¯æ²³æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=lh1
-ä¸é¨å³¡æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=smx1
-åé³æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=ny1
-åä¸æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=sq1
-ä¿¡é³æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=xy1
-å¨å£æ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=zk1
-é©»é©¬åºæ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=zmd1
-æµæºæ°é»ç»¼å,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=jy1
 
 
 
 ð¹ð¼ä¸­åçµä¿¡,#genre#
-ä¸­å¤©æ°é»,http://173.208.234.146/live/ctinews.m3u8
 
-å¤©æ é¢é,http://173.208.234.146/live/typd.m3u8
-NOWæå½±å°,http://173.208.234.146/live/nowxy.m3u8
-NOWçè°·å°,http://173.208.234.146/live/nowbg.m3u8
+ä¸ç«æ°é»,http://xiangxiws.vip:1297/live/iNEWS/playlist.m3u8
+ä¸­å¤©æ°é»,http://xiangxiws.vip:1297/live/CtiNEWS1/playlist.m3u8
+ä¸æ£®æ°é»,http://xiangxiws.vip:1297/live/EBCNews/playlist.m3u8
+ä¸­è§æ°é»,http://xiangxiws.vip:1297/live/ctvnewsqt/playlist.m3u8
+åè§æ°é»,http://xiangxiws.vip:1297/live/ctsnewsqt/playlist.m3u8
+æ°è§æ°é»,http://xiangxiws.vip:1297/live/ftvnewsqt/playlist.m3u8
+TVBSæ°é»,http://xiangxiws.vip:1297/live/tvbsnewsqt/playlist.m3u8
+LIVEä¸ç«,http://xiangxiws.vip:1297/live/setnewsrtmp/playlist.m3u8
+
+æ°è§æ°é»,http://xiangxiws.vip:64100/ch/3017/VideoInput/play.ts
+å°è§,http://xiangxiws.vip:64100/ch/3018/VideoInput/play.ts
+ä¸ç«å°æ¹¾,http://xiangxiws.vip:64100/ch/3020/VideoInput/play.ts
+å¬è§,http://xiangxiws.vip:64100/ch/3024/VideoInput/play.ts
+CNå¨ç»å°,http://xiangxiws.vip:64100/ch/3026/VideoInput/play.ts
+CNNè±å½,http://xiangxiws.vip:64100/ch/3027/VideoInput/play.ts
+ä¸­å¤©å¨±ä¹,http://xiangxiws.vip:64100/ch/3044/VideoInput/play.ts
+TVBSæ°é»,http://xiangxiws.vip:64100/ch/3046/VideoInput/play.ts
+TVBSå¨±ä¹,http://xiangxiws.vip:64100/ch/3047/VideoInput/play.ts
+TVBS HD,http://xiangxiws.vip:64100/ch/3048/VideoInput/play.ts
+ä¸­è§,http://xiangxiws.vip:64100/ch/3049/VideoInput/play.ts
+ä¸æ£®çµå½±,http://xiangxiws.vip:64100/ch/3052/VideoInput/play.ts
+ä¸æ£®æ°é»,http://xiangxiws.vip:64100/ch/4046/VideoInput/play.ts
+ä¸æ£®ç»¼å,http://xiangxiws.vip:64100/ch/4048/VideoInput/play.ts
+å¥½è±åçµå½±å°,http://xiangxiws.vip:64100/ch/4049/VideoInput/play.ts
+AXNçµå½±å°,http://xiangxiws.vip:64100/ch/4050/VideoInput/play.ts
+ä¸æ£®è´¢ç»,http://xiangxiws.vip:64100/ch/4051/VideoInput/play.ts
+ä¸æ£®å¹¼å¹¼,http://xiangxiws.vip:64100/ch/4052/VideoInput/play.ts
+å¨ç©æç,http://xiangxiws.vip:64100/ch/3054/VideoInput/play.ts
+ä¸æ£®æ´ç,http://xiangxiws.vip:64100/ch/3055/VideoInput/play.ts
+çº¬æ¥çµå½±,http://xiangxiws.vip:64100/ch/1082/VideoInput/play.ts
+HBO,http://xiangxiws.vip:64100/ch/3013/VideoInput/play.ts
+axnå¨ç»å°,http://xiangxiws.vip:64100/ch/3056/VideoInput/play.ts
+å½©æ¡,http://xiangxiws.vip:64100/ch/3057/VideoInput/play.ts
+åæ¯é«ç,http://xiangxiws.vip:64100/ch/3059/VideoInput/play.ts
+åæ¯ç½ç,http://xiangxiws.vip:64100/ch/3060/VideoInput/play.ts
+æ³°å½1,http://xiangxiws.vip:64100/ch/3076/VideoInput/play.ts
+æ³°å½2,http://xiangxiws.vip:64100/ch/3077/VideoInput/play.ts
+æ³°å½3,http://xiangxiws.vip:64100/ch/3078/VideoInput/play.ts
+ä¸­è§æ°é»,http://xiangxiws.vip:64100/ch/3079/VideoInput/play.ts
+ä¸­è§ç»å¸,http://xiangxiws.vip:64100/ch/3080/VideoInput/play.ts
+ä¸­è§éå½©,http://xiangxiws.vip:64100/ch/3081/VideoInput/play.ts
+å¬è§å°æ¹¾,http://xiangxiws.vip:64100/ch/3082/VideoInput/play.ts
+å°æ¹¾+,http://xiangxiws.vip:64100/ch/3083/VideoInput/play.ts
+æ°è§ç¬¬ä¸å°,http://xiangxiws.vip:64100/ch/3084/VideoInput/play.ts
+æ°è§å°æ¹¾,http://xiangxiws.vip:64100/ch/3085/VideoInput/play.ts
+PTSè¯»ä¹¦å°,http://xiangxiws.vip:64100/ch/3086/VideoInput/play.ts
+å°æ¹¾å®¢å®¶å°,http://xiangxiws.vip:64100/ch/3087/VideoInput/play.ts
+TITVå¨ç»å°,http://xiangxiws.vip:64100/ch/3088/VideoInput/play.ts
+å°è§æ°é»,http://xiangxiws.vip:64100/ch/3089/VideoInput/play.ts
+å°è§è´¢ç»,http://xiangxiws.vip:64100/ch/3090/VideoInput/play.ts
+å°è§ç»¼å,http://xiangxiws.vip:64100/ch/3091/VideoInput/play.ts
+åè§æè²,http://xiangxiws.vip:64100/ch/3092/VideoInput/play.ts
+åè§æ°é»,http://xiangxiws.vip:64100/ch/3093/VideoInput/play.ts
+å½ä¼1,http://xiangxiws.vip:64100/ch/3094/VideoInput/play.ts
+å½ä¼2,http://xiangxiws.vip:64100/ch/3095/VideoInput/play.ts
+CANæ°é»,http://xiangxiws.vip:64100/ch/4044/VideoInput/play.ts
+TLCå°æ¹¾,http://xiangxiws.vip:64100/ch/4047/VideoInput/play.ts
+çº¬æ¥ä½è²,http://xiangxiws.vip:64100/ch/7155/VideoInput/play.ts
+æ°è§HD,http://xiangxiws.vip:64100/ch/8093/VideoInput/play.ts
+å¯°å®è®°å½,http://xiangxiws.vip:64100/ch/8154/VideoInput/play.ts
+WALL WEEKç¾å½æ°é»,http://xiangxiws.vip:64100/ch/8161/VideoInput/play.ts
+åè§,http://xiangxiws.vip:64100/ch/8163/VideoInput/play.ts
+BBCç¾å½æ°é»å°,http://xiangxiws.vip:64100/ch/8165/VideoInput/play.ts
+sporä½è²å°,http://xiangxiws.vip:64100/ch/8171/VideoInput/play.ts
+onçµè§å°,http://xiangxiws.vip:64100/ch/8172/VideoInput/play.ts
+åæ¯è¿å¨1,http://xiangxiws.vip:64100/ch/8173/VideoInput/play.ts
+
 å¤å°é¦æ¸¯,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=fhxg
 å¤å°ç¾æ´²,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=fhmz
 ä¸­å½çµå½±é¢é,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=zgdy
@@ -1858,12 +1913,5 @@ TVBS,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=tvbs
 
 
 
-
-âææ«å°æ,#genre#
-æå¡å¨å°æ,http://
-âä¸åç»­è´¹,#genre#
-æå¡å¨å°æ,http://
-âæè°¢ä½¿ç¨,#genre#
-æå¡å¨å°æ,http://
 
 
