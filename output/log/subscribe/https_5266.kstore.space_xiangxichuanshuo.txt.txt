@@ -1732,20 +1732,12 @@ sporä½è²å°,http://xiangxiws.vip:64100/ch/8171/VideoInput/play.ts
 onçµè§å°,http://xiangxiws.vip:64100/ch/8172/VideoInput/play.ts
 åæ¯è¿å¨1,http://xiangxiws.vip:64100/ch/8173/VideoInput/play.ts
 
-å¤å°é¦æ¸¯,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=fhxg
-å¤å°ç¾æ´²,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=fhmz
-ä¸­å½çµå½±é¢é,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=zgdy
-ä¸­å¤©æ°é»,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=ztxw
-æ°è§æ çº¿å°,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=mswx
-åè§,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=hs
-TVBS,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=tvbs
-å¤§ç±çµè§,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=datv
-å¥½æ¶æ¯2å°,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=good2
-æä»å§åº,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=kljc
-é¿æ±å§åº,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=cjjc
-åç¾ç¦ç¹æ°é»å°,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=bmjdxw
-åç¾ç¾é£æ­å®¢,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=bmms
-åç¾çæ´»è§é¢,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=bmsh
+
+å¹¿ä¸å«è§,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=gdtv
+ä¸æ£®æ°é»2,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=ebc
+TVBæ çº¿æ°é»,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=tvbnews
+æ¾³é¨è²è±å«è§,http://xiangxiws.vip:6777/qlw.php?key=qqç¾¤746405779&id=lotus
+
 
 
 
