@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/imhaijie/JunTV/refs/heads/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🕘️更新时间",2026-11-16 14:13:26
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🕘️更新时间",2026-11-23 15:15:41
 http://183.10.180.133:212/tsfile/live/1035_1.m3u8
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="🍄┃广东频道",广州综合
 http://183.10.180.133:212/tsfile/live/1035_1.m3u8
@@ -1313,6 +1313,8 @@ https://t.freetv.fun/live/nowxin-wen.m3u8
 https://t.freetv.fun/live/nowxin-wen.php
 #EXTINF:-1 tvg-id="now新闻" tvg-name="now新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/now新闻.png" group-title="🚂┃湾区频道",now新闻
 https://t.freetv.fun/live/nowxin-wen-1.php
+#EXTINF:-1 tvg-id="now新闻" tvg-name="now新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/now新闻.png" group-title="🚂┃湾区频道",now新闻
+https://fast.hidns.vip/163189/now
 #EXTINF:-1 tvg-id="133爆谷台" tvg-name="133爆谷台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/133爆谷台.png" group-title="🚂┃湾区频道",133爆谷台
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="翡翠综合台(北美)" tvg-name="翡翠综合台(北美)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠综合台(北美).png" group-title="🚂┃湾区频道",翡翠综合台(北美)
@@ -2419,6 +2421,8 @@ https://stream1.freetv.fun/zhe-jiang-guo-ji-4.m3u8
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉兴新闻综合.png" group-title="📚┃浙江频道",嘉兴新闻综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉兴新闻综合.png" group-title="📚┃浙江频道",嘉兴新闻综合
+https://ali-xwl.cztv.com/live/jiaxingds.m3u8
 #EXTINF:-1 tvg-id="嘉兴公共" tvg-name="嘉兴公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉兴公共.png" group-title="📚┃浙江频道",嘉兴公共
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="嘉兴公共" tvg-name="嘉兴公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉兴公共.png" group-title="📚┃浙江频道",嘉兴公共
@@ -2455,22 +2459,30 @@ https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235443/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="衢州新闻综合" tvg-name="衢州新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/衢州新闻综合.png" group-title="📚┃浙江频道",衢州新闻综合
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+#EXTINF:-1 tvg-id="衢州新闻综合" tvg-name="衢州新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/衢州新闻综合.png" group-title="📚┃浙江频道",衢州新闻综合
+https://ali-xwl.cztv.com/live/quzhouds.m3u8
 #EXTINF:-1 tvg-id="金华教育科技" tvg-name="金华教育科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金华教育科技.png" group-title="📚┃浙江频道",金华教育科技
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="金华新闻综合" tvg-name="金华新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金华新闻综合.png" group-title="📚┃浙江频道",金华新闻综合
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+#EXTINF:-1 tvg-id="金华新闻综合" tvg-name="金华新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金华新闻综合.png" group-title="📚┃浙江频道",金华新闻综合
+https://ali-xwl.cztv.com/live/jinhuads.m3u8
 #EXTINF:-1 tvg-id="金华公共" tvg-name="金华公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金华公共.png" group-title="📚┃浙江频道",金华公共
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="金华公共" tvg-name="金华公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金华公共.png" group-title="📚┃浙江频道",金华公共
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236605/1082207617.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="舟山新闻综合" tvg-name="舟山新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/舟山新闻综合.png" group-title="📚┃浙江频道",舟山新闻综合
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+#EXTINF:-1 tvg-id="舟山新闻综合" tvg-name="舟山新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/舟山新闻综合.png" group-title="📚┃浙江频道",舟山新闻综合
+https://ali-xwl.cztv.com/live/zhoushands.m3u8
 #EXTINF:-1 tvg-id="舟山公共" tvg-name="舟山公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/舟山公共.png" group-title="📚┃浙江频道",舟山公共
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="舟山公共" tvg-name="舟山公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/舟山公共.png" group-title="📚┃浙江频道",舟山公共
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/温州新闻综合.png" group-title="📚┃浙江频道",温州新闻综合
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+#EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/温州新闻综合.png" group-title="📚┃浙江频道",温州新闻综合
+https://ali-xwl.cztv.com/live/wenzhouds.m3u8
 #EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经视.png" group-title="📚┃浙江频道",浙江经视
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="浙江留学" tvg-name="浙江留学" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江留学.png" group-title="📚┃浙江频道",浙江留学
@@ -3399,6 +3411,8 @@ http://free.cnlive.club/channel/n5502f4/index.m3u8
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="龙祥电影" tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="🎬┃电影频道",龙祥电影
 https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-id="龙祥电影" tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="🎬┃电影频道",龙祥电影
+https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.m3u8
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="🎬┃电影频道",东森洋片
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="🎬┃电影频道",东森洋片
@@ -4147,6 +4161,8 @@ https://live.iill.top/huya/29465849
 https://live.metshop.top/huya/29465849
 #EXTINF:-1 tvg-id="闯关东" tvg-name="闯关东" tvg-logo="https://www.xn--rgv465a.top/tvlogo/闯关东.png" group-title="🏛┃经典剧场",闯关东
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+#EXTINF:-1 tvg-id="闯关东" tvg-name="闯关东" tvg-logo="https://www.xn--rgv465a.top/tvlogo/闯关东.png" group-title="🏛┃经典剧场",闯关东
+https://live.ottiptv.cc/yy/1383546866
 #EXTINF:-1 tvg-id="上海滩" tvg-name="上海滩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海滩.png" group-title="🏛┃经典剧场",上海滩
 https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-id="上海滩" tvg-name="上海滩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海滩.png" group-title="🏛┃经典剧场",上海滩
